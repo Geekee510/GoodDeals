@@ -3,7 +3,7 @@
 """
 fetch_deals.py
 ==============
-抓取「什么值得买（SMZDM）」官方 RSS 与 RSSHub 定制频道，解析、去重后输出
+抓取「什么值得买（SMZDM）」官方 RSS 与官方榜单接口（/top/json_more），解析、去重后输出
 `data/deals.json`，供静态前端渲染。
 
 设计原则（对应项目方案）：
@@ -177,6 +177,69 @@ def parse_entry(entry: dict, source: dict):
     }
 
 
+def fetch_ranking(source: dict, timeout: int, ua: str):
+    """直接调用 SMZDM 官方榜单接口 /top/json_more。
+
+    RSSHub 的 smzdm/ranking 路由本质也是转发这个接口，但 rsshub.app 公共
+    实例封锁了云机房 IP；直连 smzdm.com 自己的接口则云端可用、无需登录、
+    无签名，低风险。返回 JSON 的 data.list 为嵌套数组 [[item,item],...]。
+    """
+    headers = {
+        "User-Agent": ua,
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Referer": "https://www.smzdm.com/top",
+        "X-Requested-With": "XMLHttpRequest",
+    }
+    params = {
+        "rank_type": source.get("rank_type", "pinlei"),
+        "rank_id": source.get("rank_id", "11"),
+        "hour": source.get("hour", "24"),
+    }
+    url = "https://www.smzdm.com/top/json_more"
+    try:
+        resp = requests.get(url, headers=headers, params=params, timeout=timeout)
+        resp.raise_for_status()
+        j = resp.json()
+        if j.get("error_code") != 0:
+            log(f"  ⚠ 接口返回错误 {source['name']}: {j.get('error_msg')}")
+            return []
+        rows = (j.get("data") or {}).get("list", [])
+        items = []
+        for row in rows:
+            if not isinstance(row, list):
+                row = [row]
+            for it in row:
+                if isinstance(it, dict) and it.get("article_title"):
+                    items.append(it)
+        return items
+    except Exception as e:
+        log(f"  ✗ 抓取失败 {source['name']} ({url}): {e}")
+        return []
+
+
+def parse_ranking_item(item: dict, source: dict):
+    link = (item.get("article_url") or "").strip()
+    if not link:
+        return None
+    title = (item.get("article_title") or "").strip()
+    price_raw = item.get("article_price") or ""
+    price = extract_price(price_raw)
+    image = item.get("article_pic") or None
+    category = source.get("category") or "好价"
+    now = datetime.now(timezone.utc)
+    return {
+        "title": title,
+        "link": link,
+        "price": price,
+        "image": image,
+        "category": category,
+        "source": source["name"],
+        "summary": strip_html(price_raw)[:200],
+        "published": now.isoformat(),
+        "published_ts": now.timestamp(),
+    }
+
+
 def main() -> None:
     config = load_config()
     site = config.get("site", {})
@@ -189,13 +252,17 @@ def main() -> None:
     for source in config["sources"]:
         if not source.get("enabled", True):
             continue
-        log(f"→ {source['name']} ({source['url']})")
-        entries = fetch_feed(source, timeout, ua)
-        log(f"  获取到 {len(entries)} 条")
-        for entry in entries:
-            item = parse_entry(entry, source)
-            if not item:
-                continue
+        if source.get("type") == "smzdm_ranking":
+            log(f"→ {source['name']} (SMZDM榜单 {source.get('rank_type')}/{source.get('rank_id')})")
+            raw = fetch_ranking(source, timeout, ua)
+            items_raw = [parse_ranking_item(it, source) for it in raw]
+        else:
+            log(f"→ {source['name']} ({source['url']})")
+            entries = fetch_feed(source, timeout, ua)
+            items_raw = [parse_entry(e, source) for e in entries]
+        items_raw = [x for x in items_raw if x]
+        log(f"  获取到 {len(items_raw)} 条")
+        for item in items_raw:
             if item["link"] in deals:  # 按链接去重
                 continue
             deals[item["link"]] = item
