@@ -1,0 +1,55 @@
+name: 抓取并部署优惠站
+
+on:
+  schedule:
+    # 每 2 小时跑一次（UTC 时间，对应北京时间 +8h）
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}        # 允许在 Actions 页面手动触发
+  push:
+    branches: [main]           # 推代码时也重新生成一次
+
+permissions:
+  contents: read
+
+# 允许手动在 Pages 设置里取消后重跑时避免并发部署冲突
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取 RSS 并生成 data/deals.json
+        run: python scripts/fetch_deals.py
+
+      - name: 上传静态站点产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 上传整个仓库根目录（含 index.html / assets / 刚生成的 data/deals.json）
+          path: "."
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

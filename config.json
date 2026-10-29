@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "好价精选",
+    "subtitle": "给朋友的小圈子 · 国内优惠聚合",
+    "max_items": 300,
+    "fetch_timeout": 15,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+  },
+  "sources": [
+    {
+      "id": "smzdm_haojia",
+      "name": "什么值得买·好价",
+      "url": "http://feed.smzdm.com",
+      "category": "好价",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_jd",
+      "name": "RSSHub·京东榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/dianshang/23/24",
+      "category": "京东",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_tmall",
+      "name": "RSSHub·天猫榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/dianshang/25/24",
+      "category": "天猫",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_digital",
+      "name": "RSSHub·电脑数码榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/pinlei/13/24",
+      "category": "数码",
+      "enabled": true
+    }
+  ]
+}

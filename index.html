@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>好价精选</title>
+  <meta name="description" content="国内优惠信息聚合 · 给朋友的小圈子。数据来源：什么值得买等公开 RSS。" />
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="title-row">
+        <h1 id="siteTitle">好价精选</h1>
+        <button id="themeToggle" class="theme-btn" aria-label="切换深色/浅色">🌗</button>
+      </div>
+      <p id="siteSubtitle" class="subtitle"></p>
+      <div class="controls">
+        <input id="search" class="search" type="search" placeholder="搜索关键词，如 键盘 / 京东 / 茅台" />
+        <div id="catFilter" class="cat-filter"></div>
+      </div>
+      <p id="updated" class="updated"></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="list" class="deal-list"></div>
+    <p id="empty" class="empty" hidden>没有匹配的优惠，换个关键词或分类试试～</p>
+    <p id="loaderr" class="empty" hidden>数据加载失败，请稍后刷新，或确认站点已通过 GitHub Actions 生成数据。</p>
+  </main>
+
+  <footer class="site-footer wrap">
+    <p>数据来自什么值得买等平台的公开 RSS 订阅，仅供学习研究与小圈子分享，版权归原平台所有。</p>
+    <p>价格与优惠以来源页面实时为准，点击卡片跳转原文查看详情。</p>
+  </footer>
+
+  <script src="./assets/js/app.js"></script>
+</body>
+</html>
