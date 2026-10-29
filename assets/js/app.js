@@ -10,7 +10,24 @@
   function dataUrl() {
     return DATA_URL + "?t=" + Date.now();
   }
+  // 初始状态：从 sessionStorage 恢复分类/搜索（微信右滑返回后页面重载，
+  // 浏览器原生状态丢失；配合 restoreScroll 实现"回到上次看的位置+分类"）
+  function savedState() {
+    var s = { cat: "全部", q: "" };
+    try {
+      s.cat = sessionStorage.getItem("gd_cat") || "全部";
+      s.q = sessionStorage.getItem("gd_q") || "";
+    } catch (e) {}
+    return s;
+  }
   var state = { deals: [], cat: "全部", q: "" };
+
+  function persistState() {
+    try {
+      sessionStorage.setItem("gd_cat", state.cat);
+      sessionStorage.setItem("gd_q", state.q);
+    } catch (e) {}
+  }
 
   // ---- 工具 ----
   function esc(s) {
@@ -111,6 +128,8 @@
     var names = Object.keys(cats).sort(function (a, b) {
       return catSortKey(a) - catSortKey(b) || a.localeCompare(b, "zh");
     });
+    // 恢复的分类在新数据里可能已消失（如该类暂无条目），回退到「全部」避免空列表
+    if (state.cat !== "全部" && !cats[state.cat]) state.cat = "全部";
     names = ["全部"].concat(names);
     var box = document.getElementById("catFilter");
     box.innerHTML = names
@@ -127,6 +146,7 @@
     box.querySelectorAll(".chip").forEach(function (btn) {
       btn.addEventListener("click", function () {
         state.cat = btn.getAttribute("data-cat");
+        persistState();
         box.querySelectorAll(".chip").forEach(function (b) {
           b.classList.toggle("active", b === btn);
         });
@@ -168,12 +188,17 @@
   // ---- 启动 ----
   function init() {
     initTheme();
+    state = savedState();
 
     var search = document.getElementById("search");
     search.addEventListener("input", function () {
       state.q = search.value || "";
+      persistState();
       render();
     });
+
+    // 恢复上次的搜索词（分类由 buildCats 按 state.cat 高亮）
+    if (state.q) search.value = state.q;
 
     // 点击卡片跳转外链前，记录当前滚动位置；返回时由 restoreScroll() 恢复
     // （微信内置浏览器右滑返回后页面重载，浏览器原生 scrollRestoration 不可靠）
