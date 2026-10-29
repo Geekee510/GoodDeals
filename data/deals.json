@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T06:11:44.224127+00:00",
-  "count": 224,
+  "updated_at": "2026-10-29T06:50:31.343035+00:00",
+  "count": 204,
   "site": {
     "title": "好价精选",
     "subtitle": "给朋友的小圈子 · 国内优惠聚合"
@@ -14,8 +14,8 @@
       "category": "美妆个护",
       "source": "什么值得买·天猫榜",
       "summary": "13.06元（需买5件，淘金币充足到手10.52元/件）",
-      "published": "2026-10-29T06:11:40.017980+00:00",
-      "published_ts": 1793254300.01798
+      "published": "2026-10-29T06:50:05.269792+00:00",
+      "published_ts": 1793256605.269792
     },
     {
       "title": "低至0.71元/袋、淘金币可用：瑞幸咖啡 醇粹0糖0脂黑咖美式 1.8g*78袋 赠保温杯+1.8g*2袋",
@@ -25,8 +25,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·天猫榜",
       "summary": "58.11元淘金币到手57.06元",
-      "published": "2026-10-29T06:11:40.017902+00:00",
-      "published_ts": 1793254300.017902
+      "published": "2026-10-29T06:50:05.269397+00:00",
+      "published_ts": 1793256605.269397
     },
     {
       "title": "88VIP、今日必买：奥利奥 夹心饼干经典原味582g",
@@ -36,8 +36,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·天猫榜",
       "summary": "7.97元（需用券）",
-      "published": "2026-10-29T06:11:40.017731+00:00",
-      "published_ts": 1793254300.017731
+      "published": "2026-10-29T06:50:05.269003+00:00",
+      "published_ts": 1793256605.269003
     },
     {
       "title": "88VIP：嘉顿 香葱薄饼225g",
@@ -47,8 +47,19 @@
       "category": "天猫",
       "source": "什么值得买·天猫榜",
       "summary": "1.39元",
-      "published": "2026-10-29T06:11:40.017646+00:00",
-      "published_ts": 1793254300.017646
+      "published": "2026-10-29T06:50:05.268837+00:00",
+      "published_ts": 1793256605.268837
+    },
+    {
+      "title": "pidan 经典混合豆腐猫砂  2.4kg*12",
+      "link": "https://www.smzdm.com/p/184933819/",
+      "price": 71.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1af47060c97904.png_a200.jpg",
+      "category": "京东",
+      "source": "什么值得买·京东榜",
+      "summary": "71元",
+      "published": "2026-10-29T06:50:02.991167+00:00",
+      "published_ts": 1793256602.991167
     },
     {
       "title": "妮维雅 男士补水保湿水活精华乳液50g*2赠洁面50g",
@@ -58,30 +69,8 @@
       "category": "美妆个护",
       "source": "什么值得买·京东榜",
       "summary": "48.75元返50积分后",
-      "published": "2026-10-29T06:11:39.922639+00:00",
-      "published_ts": 1793254299.922639
-    },
-    {
-      "title": "PLUS会员：全棉时代 婴儿棉柔巾100%纯棉超柔乳霜洗脸巾宝宝新生儿干湿两用80抽*6包",
-      "link": "https://www.smzdm.com/p/184956348/",
-      "price": 41.97,
-      "image": "https://y.zdmimg.com/202507/08/686cf7f00cd046232.jpg_a200.jpg",
-      "category": "京东",
-      "source": "什么值得买·京东榜",
-      "summary": "41.97元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.922398+00:00",
-      "published_ts": 1793254299.922398
-    },
-    {
-      "title": "京东养车 标准洗车 轿车 2次",
-      "link": "https://www.smzdm.com/p/184941500/",
-      "price": 13.92,
-      "image": "https://y.zdmimg.com/202610/27/6ae095c72596d8322.png_a200.jpg",
-      "category": "京东",
-      "source": "什么值得买·京东榜",
-      "summary": "13.92元（需用券）",
-      "published": "2026-10-29T06:11:39.922026+00:00",
-      "published_ts": 1793254299.922026
+      "published": "2026-10-29T06:50:02.990943+00:00",
+      "published_ts": 1793256602.990943
     },
     {
       "title": "今日必买：AHC B5玻尿酸深度补水面膜5片*6盒（共30片）",
@@ -91,8 +80,19 @@
       "category": "美妆个护",
       "source": "什么值得买·京东榜",
       "summary": "72.7元返70积分后",
-      "published": "2026-10-29T06:11:39.921917+00:00",
-      "published_ts": 1793254299.921917
+      "published": "2026-10-29T06:50:02.990631+00:00",
+      "published_ts": 1793256602.990631
+    },
+    {
+      "title": "京东养车 标准洗车 轿车 2次",
+      "link": "https://www.smzdm.com/p/184941500/",
+      "price": 13.92,
+      "image": "https://y.zdmimg.com/202610/27/6ae095c72596d8322.png_a200.jpg",
+      "category": "京东",
+      "source": "什么值得买·京东榜",
+      "summary": "13.92元（需用券）",
+      "published": "2026-10-29T06:50:02.990589+00:00",
+      "published_ts": 1793256602.990589
     },
     {
       "title": "23:30截止：pidan 经典混合豆腐猫砂 3.6kg*12包",
@@ -102,8 +102,8 @@
       "category": "京东",
       "source": "什么值得买·京东榜",
       "summary": "113元（折37.7/箱）",
-      "published": "2026-10-29T06:11:39.921851+00:00",
-      "published_ts": 1793254299.921851
+      "published": "2026-10-29T06:50:02.990419+00:00",
+      "published_ts": 1793256602.990419
     },
     {
       "title": "妮维雅男士 保湿面霜50g*2 赠10g+洁面50g*2",
@@ -113,30 +113,8 @@
       "category": "美妆个护",
       "source": "什么值得买·京东榜",
       "summary": "42.54元返42积分后",
-      "published": "2026-10-29T06:11:39.921482+00:00",
-      "published_ts": 1793254299.921482
-    },
-    {
-      "title": "斯凯奇 经典熊猫鞋DLITES低帮老爹鞋女款四季运动休闲鞋拼色系带",
-      "link": "https://www.smzdm.com/p/184967725/",
-      "price": 112.0,
-      "image": "https://y.zdmimg.com/202610/29/6ae2a28bcd4221377.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·运动户外榜",
-      "summary": "112元",
-      "published": "2026-10-29T06:11:39.863656+00:00",
-      "published_ts": 1793254299.863656
-    },
-    {
-      "title": "今日必买：new balance 男女休闲运动鞋 M2002RHO",
-      "link": "https://www.smzdm.com/p/184958634/",
-      "price": 343.3,
-      "image": "https://y.zdmimg.com/202610/29/6ae2808e67bf14080.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·运动户外榜",
-      "summary": "343.3元",
-      "published": "2026-10-29T06:11:39.863598+00:00",
-      "published_ts": 1793254299.863598
+      "published": "2026-10-29T06:50:02.989973+00:00",
+      "published_ts": 1793256602.989973
     },
     {
       "title": "88VIP：斯凯奇 D'LITES系列 I-Conik 男子休闲运动鞋 8790091",
@@ -146,8 +124,30 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "162.78元（淘金币145.42元）",
-      "published": "2026-10-29T06:11:39.863515+00:00",
-      "published_ts": 1793254299.863515
+      "published": "2026-10-29T06:50:01.178068+00:00",
+      "published_ts": 1793256601.178068
+    },
+    {
+      "title": "今日必买：new balance 男女休闲运动鞋 M2002RHO",
+      "link": "https://www.smzdm.com/p/184958634/",
+      "price": 343.3,
+      "image": "https://y.zdmimg.com/202610/29/6ae2808e67bf14080.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·运动户外榜",
+      "summary": "343.3元",
+      "published": "2026-10-29T06:50:01.178037+00:00",
+      "published_ts": 1793256601.178037
+    },
+    {
+      "title": "百亿补贴：雅迪 电动车冠能龙霆80m长续航通勤代步电动摩托车",
+      "link": "https://www.smzdm.com/p/184928617/",
+      "price": 2759.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1ad288f04d2886.jpg_a200.jpg",
+      "category": "运动户外",
+      "source": "什么值得买·运动户外榜",
+      "summary": "2759元",
+      "published": "2026-10-29T06:50:01.178009+00:00",
+      "published_ts": 1793256601.178009
     },
     {
       "title": "拓路者 小鹰硬壳冲锋衣 多款可选 防风防水登山服 GHW501100",
@@ -157,8 +157,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "579元（需用券）",
-      "published": "2026-10-29T06:11:39.863421+00:00",
-      "published_ts": 1793254299.863421
+      "published": "2026-10-29T06:50:01.177983+00:00",
+      "published_ts": 1793256601.177983
     },
     {
       "title": "88VIP：斐乐 蓬蓬 男款防泼水羽绒服",
@@ -168,8 +168,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "522元（需用券）",
-      "published": "2026-10-29T06:11:39.863358+00:00",
-      "published_ts": 1793254299.863358
+      "published": "2026-10-29T06:50:01.177955+00:00",
+      "published_ts": 1793256601.177955
     },
     {
       "title": "HOKA 挑战者8 GTX 女款徒步鞋",
@@ -179,19 +179,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "536.89元（需用券）",
-      "published": "2026-10-29T06:11:39.863301+00:00",
-      "published_ts": 1793254299.863301
+      "published": "2026-10-29T06:50:01.177930+00:00",
+      "published_ts": 1793256601.17793
     },
     {
       "title": "PLUS会员：五星钻豹 X9电动摩托车 120km长续航 72V39AH石墨烯 2000W大功率",
       "link": "https://www.smzdm.com/p/184938218/",
-      "price": 699.0,
+      "price": 2699.0,
       "image": "https://y.zdmimg.com/202606/03/6a20047e393f71877.jpg_a200.jpg",
       "category": "运动户外",
       "source": "什么值得买·运动户外榜",
       "summary": "2699元",
-      "published": "2026-10-29T06:11:39.863246+00:00",
-      "published_ts": 1793254299.863246
+      "published": "2026-10-29T06:50:01.177905+00:00",
+      "published_ts": 1793256601.177905
     },
     {
       "title": "30日20点：HOKA 克利夫顿/CLIFTON 10 跑鞋 （多配色可选）",
@@ -201,8 +201,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "538.9元（需用券）",
-      "published": "2026-10-29T06:11:39.863180+00:00",
-      "published_ts": 1793254299.86318
+      "published": "2026-10-29T06:50:01.177874+00:00",
+      "published_ts": 1793256601.177874
     },
     {
       "title": "PLUS会员：诺诗兰 户外极寒特氟龙三防鹅绒服",
@@ -212,8 +212,8 @@
       "category": "运动户外",
       "source": "什么值得买·运动户外榜",
       "summary": "398.12元（需用券）",
-      "published": "2026-10-29T06:11:39.863122+00:00",
-      "published_ts": 1793254299.863122
+      "published": "2026-10-29T06:50:01.177845+00:00",
+      "published_ts": 1793256601.177845
     },
     {
       "title": "88VIP：new balance 男女款复古运动鞋 CM996JG2",
@@ -223,30 +223,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "316.74元（需用券）",
-      "published": "2026-10-29T06:11:39.863069+00:00",
-      "published_ts": 1793254299.863069
+      "published": "2026-10-29T06:50:01.177818+00:00",
+      "published_ts": 1793256601.177818
     },
     {
       "title": "哥伦比亚 银点700蓬鹅绒内胆 三合一鹅绒冲锋衣",
       "link": "https://www.smzdm.com/p/184934281/",
-      "price": 369.0,
+      "price": 1369.0,
       "image": "https://y.zdmimg.com/202610/23/6adb1538b8dc43067.jpg_a200.jpg",
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "1369元",
-      "published": "2026-10-29T06:11:39.863011+00:00",
-      "published_ts": 1793254299.863011
-    },
-    {
-      "title": "今日必买：迈乐 MOAB3系列 橡胶大底 男女款防滑耐磨透气越野登山跑鞋 J00003596",
-      "link": "https://www.smzdm.com/p/184958589/",
-      "price": 365.9,
-      "image": "https://y.zdmimg.com/202610/27/6ae06b21a327f1031.jpg_a200.jpg",
-      "category": "运动户外",
-      "source": "什么值得买·运动户外榜",
-      "summary": "365.9元（需用券）",
-      "published": "2026-10-29T06:11:39.862955+00:00",
-      "published_ts": 1793254299.862955
+      "published": "2026-10-29T06:50:01.177780+00:00",
+      "published_ts": 1793256601.17778
     },
     {
       "title": "88VIP：斐乐 猫爪5代 男女款老爹鞋",
@@ -256,63 +245,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "277.51元（需用券）",
-      "published": "2026-10-29T06:11:39.862893+00:00",
-      "published_ts": 1793254299.862893
-    },
-    {
-      "title": "88VIP：斐乐 加绒保暖 款套头卫衣",
-      "link": "https://www.smzdm.com/p/184927948/",
-      "price": 166.7,
-      "image": "https://y.zdmimg.com/202511/18/691c91d5df9568604.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·运动户外榜",
-      "summary": "166.7元（需用券）",
-      "published": "2026-10-29T06:11:39.862837+00:00",
-      "published_ts": 1793254299.862837
+      "published": "2026-10-29T06:50:01.177754+00:00",
+      "published_ts": 1793256601.177754
     },
     {
       "title": "国家补贴：金箭 灵彩 电动摩托车 60V20AH",
       "link": "https://www.smzdm.com/p/184938323/",
-      "price": 570.6,
+      "price": 1570.6,
       "image": "https://y.zdmimg.com/202610/27/6ae04693980f85720.png_a200.jpg",
       "category": "运动户外",
       "source": "什么值得买·运动户外榜",
       "summary": "1570.6元",
-      "published": "2026-10-29T06:11:39.862782+00:00",
-      "published_ts": 1793254299.862782
-    },
-    {
-      "title": "HOKA 挑战者8 GTX 男款徒步鞋",
-      "link": "https://www.smzdm.com/p/184938354/",
-      "price": 536.89,
-      "image": "https://y.zdmimg.com/202610/28/6ae1dadac08766463.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·运动户外榜",
-      "summary": "536.89元（需用券）",
-      "published": "2026-10-29T06:11:39.862724+00:00",
-      "published_ts": 1793254299.862724
-    },
-    {
-      "title": "PLUS会员、今日必买：北面 Nuptse 1996系列 经典款羽绒服 700蓬鹅绒 NF0A3C8DGOE",
-      "link": "https://www.smzdm.com/p/184934439/",
-      "price": 444.66,
-      "image": "https://y.zdmimg.com/202610/28/6ae1c36b687c25950.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·运动户外榜",
-      "summary": "1444.66元",
-      "published": "2026-10-29T06:11:39.862672+00:00",
-      "published_ts": 1793254299.862672
-    },
-    {
-      "title": "今日必买：斐乐 蕨草鞋 男子复古老爹鞋",
-      "link": "https://www.smzdm.com/p/184949835/",
-      "price": 288.3,
-      "image": "https://y.zdmimg.com/202511/06/690bc413c3d771942.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·运动户外榜",
-      "summary": "288.3元",
-      "published": "2026-10-29T06:11:39.862599+00:00",
-      "published_ts": 1793254299.862599
+      "published": "2026-10-29T06:50:01.177729+00:00",
+      "published_ts": 1793256601.177729
     },
     {
       "title": "限尺码、88VIP：安踏 大地之壳3.0 水壳三合一冲锋衣",
@@ -322,19 +267,52 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "200.41元（需用券）",
-      "published": "2026-10-29T06:11:39.862517+00:00",
-      "published_ts": 1793254299.862517
+      "published": "2026-10-29T06:50:01.177703+00:00",
+      "published_ts": 1793256601.177703
     },
     {
-      "title": "安踏 水壳三合一冲锋衣丨大地之壳3.0户外冲锋衣男防风防水登山服",
-      "link": "https://www.smzdm.com/p/184969532/",
-      "price": 176.03,
-      "image": "https://y.zdmimg.com/202610/28/6ae1bb70421d55917.jpg_a200.jpg",
+      "title": "今日必买：迈乐 MOAB3系列 橡胶大底 男女款防滑耐磨透气越野登山跑鞋 J00003596",
+      "link": "https://www.smzdm.com/p/184958589/",
+      "price": 365.9,
+      "image": "https://y.zdmimg.com/202610/27/6ae06b21a327f1031.jpg_a200.jpg",
       "category": "运动户外",
       "source": "什么值得买·运动户外榜",
-      "summary": "176.03元（需用券）",
-      "published": "2026-10-29T06:11:39.862452+00:00",
-      "published_ts": 1793254299.862452
+      "summary": "365.9元（需用券）",
+      "published": "2026-10-29T06:50:01.177676+00:00",
+      "published_ts": 1793256601.177676
+    },
+    {
+      "title": "HOKA 挑战者8 GTX 男款徒步鞋",
+      "link": "https://www.smzdm.com/p/184938354/",
+      "price": 536.89,
+      "image": "https://y.zdmimg.com/202610/28/6ae1dadac08766463.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·运动户外榜",
+      "summary": "536.89元（需用券）",
+      "published": "2026-10-29T06:50:01.177644+00:00",
+      "published_ts": 1793256601.177644
+    },
+    {
+      "title": "PLUS会员、今日必买：北面 Nuptse 1996系列 经典款羽绒服 700蓬鹅绒 NF0A3C8DGOE",
+      "link": "https://www.smzdm.com/p/184934439/",
+      "price": 1444.66,
+      "image": "https://y.zdmimg.com/202610/28/6ae1c36b687c25950.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·运动户外榜",
+      "summary": "1444.66元",
+      "published": "2026-10-29T06:50:01.177618+00:00",
+      "published_ts": 1793256601.177618
+    },
+    {
+      "title": "今日必买：斐乐 蕨草鞋 男子复古老爹鞋",
+      "link": "https://www.smzdm.com/p/184949835/",
+      "price": 288.3,
+      "image": "https://y.zdmimg.com/202511/06/690bc413c3d771942.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·运动户外榜",
+      "summary": "288.3元",
+      "published": "2026-10-29T06:50:01.177584+00:00",
+      "published_ts": 1793256601.177584
     },
     {
       "title": "今日必买：索康尼 TRIUMPH 胜利 23 男款跑鞋 S31023",
@@ -344,19 +322,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "537元（需用券）",
-      "published": "2026-10-29T06:11:39.862401+00:00",
-      "published_ts": 1793254299.862401
+      "published": "2026-10-29T06:50:01.177558+00:00",
+      "published_ts": 1793256601.177558
     },
     {
-      "title": "88VIP：斐乐 蕨草鞋 女款老爹鞋",
-      "link": "https://www.smzdm.com/p/184934486/",
-      "price": 295.07,
-      "image": "https://y.zdmimg.com/202510/29/6901ba757bc0c9833.jpg_a200.jpg",
-      "category": "服饰鞋包",
+      "title": "安踏 水壳三合一冲锋衣丨大地之壳3.0户外冲锋衣男防风防水登山服",
+      "link": "https://www.smzdm.com/p/184969532/",
+      "price": 176.03,
+      "image": "https://y.zdmimg.com/202610/28/6ae1bb70421d55917.jpg_a200.jpg",
+      "category": "运动户外",
       "source": "什么值得买·运动户外榜",
-      "summary": "295.07元（淘金币265.12元）",
-      "published": "2026-10-29T06:11:39.862342+00:00",
-      "published_ts": 1793254299.862342
+      "summary": "176.03元（需用券）",
+      "published": "2026-10-29T06:50:01.177528+00:00",
+      "published_ts": 1793256601.177528
     },
     {
       "title": "new balance 1080 V14专业缓震运动跑步鞋",
@@ -366,8 +344,30 @@
       "category": "运动户外",
       "source": "什么值得买·运动户外榜",
       "summary": "330元（需用券）",
-      "published": "2026-10-29T06:11:39.862280+00:00",
-      "published_ts": 1793254299.86228
+      "published": "2026-10-29T06:50:01.177498+00:00",
+      "published_ts": 1793256601.177498
+    },
+    {
+      "title": "88VIP：斐乐 蕨草鞋 女款老爹鞋",
+      "link": "https://www.smzdm.com/p/184934486/",
+      "price": 295.07,
+      "image": "https://y.zdmimg.com/202510/29/6901ba757bc0c9833.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·运动户外榜",
+      "summary": "295.07元（淘金币265.12元）",
+      "published": "2026-10-29T06:50:01.177469+00:00",
+      "published_ts": 1793256601.177469
+    },
+    {
+      "title": "88VIP：斐乐 加绒保暖 款套头卫衣",
+      "link": "https://www.smzdm.com/p/184927948/",
+      "price": 166.7,
+      "image": "https://y.zdmimg.com/202511/18/691c91d5df9568604.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·运动户外榜",
+      "summary": "166.7元（需用券）",
+      "published": "2026-10-29T06:50:01.177440+00:00",
+      "published_ts": 1793256601.17744
     },
     {
       "title": "88VIP：new balance 2002R系列 男女休闲运动鞋 M2002RHO",
@@ -377,8 +377,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·运动户外榜",
       "summary": "322.8元",
-      "published": "2026-10-29T06:11:39.862158+00:00",
-      "published_ts": 1793254299.862158
+      "published": "2026-10-29T06:50:01.177365+00:00",
+      "published_ts": 1793256601.177365
     },
     {
       "title": "蕉下 女士 5-15度 摇粒绒打底衫半拉链秋冬保暖冲锋衣内胆PM002（补贴好价！）",
@@ -388,8 +388,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "148.1元（需用券）",
-      "published": "2026-10-29T06:11:39.767085+00:00",
-      "published_ts": 1793254299.767085
+      "published": "2026-10-29T06:49:57.478468+00:00",
+      "published_ts": 1793256597.478468
     },
     {
       "title": "杉杉 【100%羊毛】男士490g立领开衫冬季厚款外套",
@@ -399,8 +399,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "199元（需用券）",
-      "published": "2026-10-29T06:11:39.767052+00:00",
-      "published_ts": 1793254299.767052
+      "published": "2026-10-29T06:49:57.478276+00:00",
+      "published_ts": 1793256597.478276
     },
     {
       "title": "JEEP SPIRIT 2026秋季新款男士休闲连帽防大雨登山冲锋衣",
@@ -410,8 +410,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "49元（需用券）",
-      "published": "2026-10-29T06:11:39.767025+00:00",
-      "published_ts": 1793254299.767025
+      "published": "2026-10-29T06:49:57.478079+00:00",
+      "published_ts": 1793256597.478079
     },
     {
       "title": "Lee 抓绒休闲宽松直筒经典斜纹布潮舒适男士保暖休闲裤",
@@ -421,8 +421,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "171.24元（需用券）",
-      "published": "2026-10-29T06:11:39.766995+00:00",
-      "published_ts": 1793254299.766995
+      "published": "2026-10-29T06:49:57.477917+00:00",
+      "published_ts": 1793256597.477917
     },
     {
       "title": "gxgjeans 26秋新品 美式复古水洗休闲阔腿弯刀牛仔裤 水泥灰",
@@ -432,8 +432,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "135元",
-      "published": "2026-10-29T06:11:39.766967+00:00",
-      "published_ts": 1793254299.766967
+      "published": "2026-10-29T06:49:57.477756+00:00",
+      "published_ts": 1793256597.477756
     },
     {
       "title": "杉杉 100%头层高档牛皮 26秋冬季新款立领真皮夹克",
@@ -443,30 +443,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "575.65元（需用券）",
-      "published": "2026-10-29T06:11:39.766937+00:00",
-      "published_ts": 1793254299.766937
-    },
-    {
-      "title": "优衣库 男装/男女同款高级轻型羽绒便携式茄克/弧形压线外套夹克480949 480949/09黑色 XL /180/108B",
-      "link": "https://www.smzdm.com/p/184946892/",
-      "price": 137.39,
-      "image": "https://y.zdmimg.com/202509/09/68c00c37d95cd5201.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·服饰鞋包榜",
-      "summary": "137.39元（需用券）",
-      "published": "2026-10-29T06:11:39.766909+00:00",
-      "published_ts": 1793254299.766909
-    },
-    {
-      "title": "宜而爽 新疆棉 袜子 100% 纯棉10A抗菌 中筒袜 5双",
-      "link": "https://www.smzdm.com/p/184943943/",
-      "price": 13.9,
-      "image": "https://y.zdmimg.com/202610/26/6adeb7e84f79b9479.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·服饰鞋包榜",
-      "summary": "13.9元（需用券）",
-      "published": "2026-10-29T06:11:39.766871+00:00",
-      "published_ts": 1793254299.766871
+      "published": "2026-10-29T06:49:57.477594+00:00",
+      "published_ts": 1793256597.477594
     },
     {
       "title": "芬腾 【纯棉带胸垫】女士翻领长袖家居服2件套",
@@ -476,19 +454,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "58元返10积分后",
-      "published": "2026-10-29T06:11:39.766842+00:00",
-      "published_ts": 1793254299.766842
+      "published": "2026-10-29T06:49:57.477441+00:00",
+      "published_ts": 1793256597.477441
     },
     {
-      "title": "雪中飞 断码 轻暖6.0高蓬610+ 女士85%羽绒马甲（多色可选）",
-      "link": "https://www.smzdm.com/p/184933713/",
-      "price": 49.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1be476a07e7257.jpg_a200.jpg",
+      "title": "宜而爽 新疆棉 袜子 100% 纯棉10A抗菌 中筒袜 5双",
+      "link": "https://www.smzdm.com/p/184943943/",
+      "price": 13.9,
+      "image": "https://y.zdmimg.com/202610/26/6adeb7e84f79b9479.jpg_a200.jpg",
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
-      "summary": "49元（需用券）",
-      "published": "2026-10-29T06:11:39.766815+00:00",
-      "published_ts": 1793254299.766815
+      "summary": "13.9元（需用券）",
+      "published": "2026-10-29T06:49:57.477263+00:00",
+      "published_ts": 1793256597.477263
     },
     {
       "title": "20点开始：百丽 户外运动鞋 9EJ01CM6（第二件半价）",
@@ -498,8 +476,30 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "156.75元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.766785+00:00",
-      "published_ts": 1793254299.766785
+      "published": "2026-10-29T06:49:57.477095+00:00",
+      "published_ts": 1793256597.477095
+    },
+    {
+      "title": "雪中飞 断码 轻暖6.0高蓬610+ 女士85%羽绒马甲（多色可选）",
+      "link": "https://www.smzdm.com/p/184933713/",
+      "price": 49.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1be476a07e7257.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·服饰鞋包榜",
+      "summary": "49元（需用券）",
+      "published": "2026-10-29T06:49:57.476934+00:00",
+      "published_ts": 1793256597.476934
+    },
+    {
+      "title": "优衣库 男装/男女同款高级轻型羽绒便携式茄克/弧形压线外套夹克480949 480949/09黑色 XL /180/108B",
+      "link": "https://www.smzdm.com/p/184946892/",
+      "price": 137.39,
+      "image": "https://y.zdmimg.com/202509/09/68c00c37d95cd5201.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·服饰鞋包榜",
+      "summary": "137.39元（需用券）",
+      "published": "2026-10-29T06:49:57.476753+00:00",
+      "published_ts": 1793256597.476753
     },
     {
       "title": "gxgjeans 美式复古宽松立领工装夹克 黑色",
@@ -509,8 +509,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "179元",
-      "published": "2026-10-29T06:11:39.766755+00:00",
-      "published_ts": 1793254299.766755
+      "published": "2026-10-29T06:49:57.476502+00:00",
+      "published_ts": 1793256597.476502
     },
     {
       "title": "拓路者 男士城市通勤速干裤",
@@ -520,19 +520,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "145.21元（需用券）",
-      "published": "2026-10-29T06:11:39.766726+00:00",
-      "published_ts": 1793254299.766726
+      "published": "2026-10-29T06:49:57.476342+00:00",
+      "published_ts": 1793256597.476342
     },
     {
-      "title": "喜马拉雅 达古PRO-LT 1000蓬拒水鹅绒 男士羽绒服",
-      "link": "https://www.smzdm.com/p/184935328/",
-      "price": 612.0,
-      "image": "https://y.zdmimg.com/202610/17/6ad3547f952b14989.jpg_a200.jpg",
+      "title": "蕉内 9代热皮保暖内衣男女士棉感7A抗菌秋衣秋裤套装",
+      "link": "https://www.smzdm.com/p/184958294/",
+      "price": 144.0,
+      "image": "https://y.zdmimg.com/202511/05/690ac40970eca623.png_a200.jpg",
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
-      "summary": "612元（需用券）",
-      "published": "2026-10-29T06:11:39.766701+00:00",
-      "published_ts": 1793254299.766701
+      "summary": "144元（需用券）",
+      "published": "2026-10-29T06:49:57.476205+00:00",
+      "published_ts": 1793256597.476205
     },
     {
       "title": "三枪 保暖内衣 100% 新疆纯棉 抗静电 2件装",
@@ -542,19 +542,19 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "48元返10积分后",
-      "published": "2026-10-29T06:11:39.766672+00:00",
-      "published_ts": 1793254299.766672
+      "published": "2026-10-29T06:49:57.476040+00:00",
+      "published_ts": 1793256597.47604
     },
     {
-      "title": "PLUS会员：拓路者 高山700蓬三防90轻量羽绒服男冬季户外保暖防泼防风登山高端",
-      "link": "https://www.smzdm.com/p/184944443/",
-      "price": 539.0,
-      "image": "https://y.zdmimg.com/202610/27/6ae00ffc1f9cc1558.jpg_a200.jpg",
-      "category": "运动户外",
+      "title": "喜马拉雅 达古PRO-LT 1000蓬拒水鹅绒 男士羽绒服",
+      "link": "https://www.smzdm.com/p/184935328/",
+      "price": 612.0,
+      "image": "https://y.zdmimg.com/202610/17/6ad3547f952b14989.jpg_a200.jpg",
+      "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
-      "summary": "539元（需用券）",
-      "published": "2026-10-29T06:11:39.766643+00:00",
-      "published_ts": 1793254299.766643
+      "summary": "612元（需用券）",
+      "published": "2026-10-29T06:49:57.475879+00:00",
+      "published_ts": 1793256597.475879
     },
     {
       "title": "杉杉 轻奢级！510G重磅100%高山绵羊毛羊毛衫（可机洗）6色可选",
@@ -564,8 +564,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "129元",
-      "published": "2026-10-29T06:11:39.766611+00:00",
-      "published_ts": 1793254299.766611
+      "published": "2026-10-29T06:49:57.475720+00:00",
+      "published_ts": 1793256597.47572
     },
     {
       "title": "真维斯 男士秋冬季冲锋夹克  三件组合",
@@ -575,30 +575,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "61.35元（需用券）",
-      "published": "2026-10-29T06:11:39.766565+00:00",
-      "published_ts": 1793254299.766565
-    },
-    {
-      "title": "PLUS会员：拓路者 轻野 女款硬壳冲锋衣",
-      "link": "https://www.smzdm.com/p/184943381/",
-      "price": 274.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1f86563ac1786.jpg_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·服饰鞋包榜",
-      "summary": "274元（需用券）",
-      "published": "2026-10-29T06:11:39.766538+00:00",
-      "published_ts": 1793254299.766538
-    },
-    {
-      "title": "红豆男装 保暖内衣 100% 新疆纯棉 抗静电 2件装",
-      "link": "https://www.smzdm.com/p/184935442/",
-      "price": 29.9,
-      "image": "https://y.zdmimg.com/202511/19/691ddfa980e939070.png_a200.jpg",
-      "category": "服饰鞋包",
-      "source": "什么值得买·服饰鞋包榜",
-      "summary": "29.9元",
-      "published": "2026-10-29T06:11:39.766510+00:00",
-      "published_ts": 1793254299.76651
+      "published": "2026-10-29T06:49:57.475310+00:00",
+      "published_ts": 1793256597.47531
     },
     {
       "title": "PLUS会员：百丽 男士商务休闲鞋 A1920AM5",
@@ -608,8 +586,30 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "177.99元",
-      "published": "2026-10-29T06:11:39.766481+00:00",
-      "published_ts": 1793254299.766481
+      "published": "2026-10-29T06:49:57.475135+00:00",
+      "published_ts": 1793256597.475135
+    },
+    {
+      "title": "红豆男装 保暖内衣 100% 新疆纯棉 抗静电 2件装",
+      "link": "https://www.smzdm.com/p/184935442/",
+      "price": 29.9,
+      "image": "https://y.zdmimg.com/202511/19/691ddfa980e939070.png_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·服饰鞋包榜",
+      "summary": "29.9元",
+      "published": "2026-10-29T06:49:57.474965+00:00",
+      "published_ts": 1793256597.474965
+    },
+    {
+      "title": "PLUS会员：拓路者 轻野 女款硬壳冲锋衣",
+      "link": "https://www.smzdm.com/p/184943381/",
+      "price": 274.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1f86563ac1786.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·服饰鞋包榜",
+      "summary": "274元（需用券）",
+      "published": "2026-10-29T06:49:57.474813+00:00",
+      "published_ts": 1793256597.474813
     },
     {
       "title": "黑冰 90%绒 最大290g充绒700蓬 加厚防风保暖连帽羽绒服 F8905KH 多色任选",
@@ -619,8 +619,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "392.56元",
-      "published": "2026-10-29T06:11:39.766450+00:00",
-      "published_ts": 1793254299.76645
+      "published": "2026-10-29T06:49:57.474658+00:00",
+      "published_ts": 1793256597.474658
     },
     {
       "title": "红豆男装 高品质100%纯棉半高领保暖内衣套装 2件装",
@@ -630,8 +630,8 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "29.9元（需用券）",
-      "published": "2026-10-29T06:11:39.766395+00:00",
-      "published_ts": 1793254299.766395
+      "published": "2026-10-29T06:49:57.474379+00:00",
+      "published_ts": 1793256597.474379
     },
     {
       "title": "班尼路 【福袋】一件春秋装外套盲盒（可搭配裤装盲盒）",
@@ -641,118 +641,41 @@
       "category": "服饰鞋包",
       "source": "什么值得买·服饰鞋包榜",
       "summary": "29.9元",
-      "published": "2026-10-29T06:11:39.766206+00:00",
-      "published_ts": 1793254299.766206
+      "published": "2026-10-29T06:49:57.474082+00:00",
+      "published_ts": 1793256597.474082
     },
     {
-      "title": "米家 小米米家智能晾衣机1S多功能电动晾衣架阳台自动升降照明语音遥控",
-      "link": "https://www.smzdm.com/p/184932559/",
-      "price": 447.53,
-      "image": "https://qny.smzdm.com/202305/09/6459e3e54c49d1082.jpg_a200.jpg",
+      "title": "雨森 洗脸巾悬挂式110抽*2提",
+      "link": "https://www.smzdm.com/p/184949326/",
+      "price": 11.9,
+      "image": "https://y.zdmimg.com/202511/09/690fdad1105359277.jpg_a200.jpg",
       "category": "日用百货",
       "source": "什么值得买·日用百货榜",
-      "summary": "447.53元",
-      "published": "2026-10-29T06:11:39.691421+00:00",
-      "published_ts": 1793254299.691421
+      "summary": "11.9元",
+      "published": "2026-10-29T06:49:56.173587+00:00",
+      "published_ts": 1793256596.173587
     },
     {
-      "title": "禧天龙 透明塑料收纳箱 大号PP环保材质 高透加厚 3个",
-      "link": "https://www.smzdm.com/p/184921602/",
-      "price": 69.93,
-      "image": "https://y.zdmimg.com/202610/26/6adf3e677974d8794.jpg_a200.jpg",
+      "title": "滴露 衣物消毒液除菌柠檬3L*3 99.9%杀菌除螨水内衣裤衣服 需搭洗衣液",
+      "link": "https://www.smzdm.com/p/184940634/",
+      "price": 131.6,
+      "image": "https://y.zdmimg.com/202507/15/6875f8fba23ee5683.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·日用百货榜",
+      "summary": "131.6元",
+      "published": "2026-10-29T06:49:56.173502+00:00",
+      "published_ts": 1793256596.173502
+    },
+    {
+      "title": "富光 PDZ200032200 保温壶 2.2L 白色",
+      "link": "https://www.smzdm.com/p/184930708/",
+      "price": 34.95,
+      "image": "https://y.zdmimg.com/202107/28/6100ed62bba287345.png_a200.jpg",
       "category": "日用百货",
       "source": "什么值得买·日用百货榜",
-      "summary": "69.93元",
-      "published": "2026-10-29T06:11:39.691272+00:00",
-      "published_ts": 1793254299.691272
-    },
-    {
-      "title": "洁柔 高端系列抽纸Face油画加厚四层可湿水 4层 80抽320张*20包",
-      "link": "https://www.smzdm.com/p/184760867/",
-      "price": 29.4,
-      "image": "https://y.zdmimg.com/202610/26/6adeb8c8b97515308.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "29.4元返10积分后",
-      "published": "2026-10-29T06:11:39.691106+00:00",
-      "published_ts": 1793254299.691106
-    },
-    {
-      "title": "原森太 黄金柚木菜板 食品级 40*28*2.5cm",
-      "link": "https://www.smzdm.com/p/184927350/",
-      "price": 69.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1a71ebad184541.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·日用百货榜",
-      "summary": "69元",
-      "published": "2026-10-29T06:11:39.690972+00:00",
-      "published_ts": 1793254299.690972
-    },
-    {
-      "title": "奥妙 全自动薰衣草香三效合一瓶装洗衣液11.8斤！",
-      "link": "https://www.smzdm.com/p/184946955/",
-      "price": 35.5,
-      "image": "https://y.zdmimg.com/202604/14/69dda14d637157567.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "35.5元（需用券）",
-      "published": "2026-10-29T06:11:39.690891+00:00",
-      "published_ts": 1793254299.690891
-    },
-    {
-      "title": "本迪 抽绳加厚 垃圾袋 200只装45*45cm 折0.05/只",
-      "link": "https://www.smzdm.com/p/184929370/",
-      "price": 9.9,
-      "image": "https://y.zdmimg.com/202609/30/6abcdc7af643f1540.png_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "9.9元返10积分后",
-      "published": "2026-10-29T06:11:39.690809+00:00",
-      "published_ts": 1793254299.690809
-    },
-    {
-      "title": "米家 电动晾衣架1S 智能晾衣机",
-      "link": "https://www.smzdm.com/p/184866823/",
-      "price": 459.2,
-      "image": "https://y.zdmimg.com/202610/25/6add47b24962f1496.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "459.2元（需用券）",
-      "published": "2026-10-29T06:11:39.690730+00:00",
-      "published_ts": 1793254299.69073
-    },
-    {
-      "title": "PLUS会员：美的 高压锅304不锈钢3.2L（赠不锈钢汤锅价值119元）",
-      "link": "https://www.smzdm.com/p/184927061/",
-      "price": 321.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1bc61c14a5335.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "321元返200积分后",
-      "published": "2026-10-29T06:11:39.690644+00:00",
-      "published_ts": 1793254299.690644
-    },
-    {
-      "title": "维达 抽纸棉韧3层100抽*24包",
-      "link": "https://www.smzdm.com/p/184922739/",
-      "price": 21.21,
-      "image": "https://qny.smzdm.com/202101/27/6011089c4eb413792.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "21.21元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.690549+00:00",
-      "published_ts": 1793254299.690549
-    },
-    {
-      "title": "staub 珐宝 自然秘境餐具套装 10件套",
-      "link": "https://www.smzdm.com/p/184862327/",
-      "price": 264.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae19654c5ed88747.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "264元返50积分后",
-      "published": "2026-10-29T06:11:39.690479+00:00",
-      "published_ts": 1793254299.690479
+      "summary": "34.95元（需用券）",
+      "published": "2026-10-29T06:49:56.173433+00:00",
+      "published_ts": 1793256596.173433
     },
     {
       "title": "PLUS会员：维达 棉韧系列 抽纸 3层100抽*24包",
@@ -762,8 +685,96 @@
       "category": "日用百货",
       "source": "什么值得买·日用百货榜",
       "summary": "21.21元",
-      "published": "2026-10-29T06:11:39.690411+00:00",
-      "published_ts": 1793254299.690411
+      "published": "2026-10-29T06:49:56.173406+00:00",
+      "published_ts": 1793256596.173406
+    },
+    {
+      "title": "米家 小米米家智能晾衣机1S多功能电动晾衣架阳台自动升降照明语音遥控",
+      "link": "https://www.smzdm.com/p/184932559/",
+      "price": 447.53,
+      "image": "https://qny.smzdm.com/202305/09/6459e3e54c49d1082.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "447.53元",
+      "published": "2026-10-29T06:49:56.173379+00:00",
+      "published_ts": 1793256596.173379
+    },
+    {
+      "title": "原森太 黄金柚木菜板 食品级 40*28*2.5cm",
+      "link": "https://www.smzdm.com/p/184927350/",
+      "price": 69.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1a71ebad184541.jpg_a200.jpg",
+      "category": "食品生鲜",
+      "source": "什么值得买·日用百货榜",
+      "summary": "69元",
+      "published": "2026-10-29T06:49:56.173349+00:00",
+      "published_ts": 1793256596.173349
+    },
+    {
+      "title": "洁柔 高端系列抽纸Face油画加厚四层可湿水 4层 80抽320张*20包",
+      "link": "https://www.smzdm.com/p/184760867/",
+      "price": 29.4,
+      "image": "https://y.zdmimg.com/202610/26/6adeb8c8b97515308.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "29.4元返10积分后",
+      "published": "2026-10-29T06:49:56.173283+00:00",
+      "published_ts": 1793256596.173283
+    },
+    {
+      "title": "霸王茶姬 保温杯316L不锈钢乐扣杯咖啡杯泡茶壶冰水杯子生日礼物金乌扶摇",
+      "link": "https://www.smzdm.com/p/184941765/",
+      "price": 32.13,
+      "image": "https://y.zdmimg.com/202610/27/6ae01c9c59d722884.jpg_a200.jpg",
+      "category": "食品生鲜",
+      "source": "什么值得买·日用百货榜",
+      "summary": "32.13元（需用券）",
+      "published": "2026-10-29T06:49:56.173248+00:00",
+      "published_ts": 1793256596.173248
+    },
+    {
+      "title": "奥妙 全自动薰衣草香三效合一瓶装洗衣液11.8斤！",
+      "link": "https://www.smzdm.com/p/184946955/",
+      "price": 35.5,
+      "image": "https://y.zdmimg.com/202604/14/69dda14d637157567.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "35.5元（需用券）",
+      "published": "2026-10-29T06:49:56.173214+00:00",
+      "published_ts": 1793256596.173214
+    },
+    {
+      "title": "本迪 抽绳加厚 垃圾袋 200只装45*45cm 折0.05/只",
+      "link": "https://www.smzdm.com/p/184929370/",
+      "price": 9.9,
+      "image": "https://y.zdmimg.com/202609/30/6abcdc7af643f1540.png_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "9.9元返10积分后",
+      "published": "2026-10-29T06:49:56.173153+00:00",
+      "published_ts": 1793256596.173153
+    },
+    {
+      "title": "米家 电动晾衣架1S 智能晾衣机",
+      "link": "https://www.smzdm.com/p/184866823/",
+      "price": 459.2,
+      "image": "https://y.zdmimg.com/202610/25/6add47b24962f1496.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "459.2元（需用券）",
+      "published": "2026-10-29T06:49:56.173119+00:00",
+      "published_ts": 1793256596.173119
+    },
+    {
+      "title": "PLUS会员：美的 高压锅304不锈钢3.2L（赠不锈钢汤锅价值119元）",
+      "link": "https://www.smzdm.com/p/184927061/",
+      "price": 321.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1bc61c14a5335.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "321元返200积分后",
+      "published": "2026-10-29T06:49:56.173085+00:00",
+      "published_ts": 1793256596.173085
     },
     {
       "title": "特美刻 纯钛材质 450ml 可乐杯",
@@ -773,118 +784,8 @@
       "category": "日用百货",
       "source": "什么值得买·日用百货榜",
       "summary": "70.6元（需用券）",
-      "published": "2026-10-29T06:11:39.690340+00:00",
-      "published_ts": 1793254299.69034
-    },
-    {
-      "title": "白猫 天然植物APG 洗洁精  1.15kg",
-      "link": "https://www.smzdm.com/p/184929307/",
-      "price": 4.9,
-      "image": "https://y.zdmimg.com/202310/12/6526f323abaa19464.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "4.9元（需用券）",
-      "published": "2026-10-29T06:11:39.690256+00:00",
-      "published_ts": 1793254299.690256
-    },
-    {
-      "title": "淘金币可用：THERMOS 膳魔师 JNL-503 保温杯 500ml",
-      "link": "https://www.smzdm.com/p/184914494/",
-      "price": 56.46,
-      "image": "https://y.zdmimg.com/202510/28/68ffb9f01a3688140.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "56.46元正文更低价45.48元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.690186+00:00",
-      "published_ts": 1793254299.690186
-    },
-    {
-      "title": "维达 抽纸 棉韧3层100抽*24包M码 餐巾纸纸抽 纸巾 整箱",
-      "link": "https://www.smzdm.com/p/184931080/",
-      "price": 29.9,
-      "image": "https://y.zdmimg.com/202509/19/68cd153db487a208.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "29.9元（需买3件，需用券）",
-      "published": "2026-10-29T06:11:39.690107+00:00",
-      "published_ts": 1793254299.690107
-    },
-    {
-      "title": "滴露 衣物除菌液 3L 舒缓薰衣草",
-      "link": "https://www.smzdm.com/p/184928811/",
-      "price": 43.92,
-      "image": "https://y.zdmimg.com/202507/15/68756998a20451242.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "43.92元",
-      "published": "2026-10-29T06:11:39.690027+00:00",
-      "published_ts": 1793254299.690027
-    },
-    {
-      "title": "無印良品 MUJI 不锈钢吸管杯 银色 1.2L 保温杯",
-      "link": "https://www.smzdm.com/p/184944027/",
-      "price": 65.39,
-      "image": "https://y.zdmimg.com/202609/10/6aa24b2ad2cf16442.png_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "65.39元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.689885+00:00",
-      "published_ts": 1793254299.689885
-    },
-    {
-      "title": "今日必买：清风 原木纯品金装系列 有芯卷纸 200g*27卷",
-      "link": "https://www.smzdm.com/p/184908601/",
-      "price": 31.94,
-      "image": "https://y.zdmimg.com/202610/28/6ae15fd18f0f98901.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "31.94元",
-      "published": "2026-10-29T06:11:39.689810+00:00",
-      "published_ts": 1793254299.68981
-    },
-    {
-      "title": "维达 洗脸巾120抽*1提 一次性毛巾悬挂式擦脸巾学生宿舍",
-      "link": "https://www.smzdm.com/p/184941796/",
-      "price": 6.9,
-      "image": "https://y.zdmimg.com/202507/10/686ea8c1f30626407.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "6.9元（需用券）",
-      "published": "2026-10-29T06:11:39.689730+00:00",
-      "published_ts": 1793254299.68973
-    },
-    {
-      "title": "维达 棉韧抽纸 3层100抽*24包S码  AB混发",
-      "link": "https://www.smzdm.com/p/184906932/",
-      "price": 21.19,
-      "image": "https://y.zdmimg.com/202610/26/6adf1e38059cd4883.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "21.19元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.689628+00:00",
-      "published_ts": 1793254299.689628
-    },
-    {
-      "title": "今日必买：清风 抽纸悬挂式柔软亲肤 4层250抽*10提/10000张整箱",
-      "link": "https://www.smzdm.com/p/184862746/",
-      "price": 19.9,
-      "image": "https://y.zdmimg.com/202610/25/6add52b1f45f25823.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "19.9元（需买3件，需用券）",
-      "published": "2026-10-29T06:11:39.689547+00:00",
-      "published_ts": 1793254299.689547
-    },
-    {
-      "title": "e洁 自动收口抽绳垃圾袋 45*50cm 180只",
-      "link": "https://www.smzdm.com/p/184919380/",
-      "price": 10.9,
-      "image": "https://y.zdmimg.com/202610/27/6ae0390a6f1ed8651.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·日用百货榜",
-      "summary": "10.9元返10积分后",
-      "published": "2026-10-29T06:11:39.689458+00:00",
-      "published_ts": 1793254299.689458
+      "published": "2026-10-29T06:49:56.173046+00:00",
+      "published_ts": 1793256596.173046
     },
     {
       "title": "今日必买：清风 0.78一包！就你系列原木抽纸 3层100抽*24包",
@@ -894,8 +795,107 @@
       "category": "日用百货",
       "source": "什么值得买·日用百货榜",
       "summary": "18.9元",
-      "published": "2026-10-29T06:11:39.689367+00:00",
-      "published_ts": 1793254299.689367
+      "published": "2026-10-29T06:49:56.173013+00:00",
+      "published_ts": 1793256596.173013
+    },
+    {
+      "title": "白猫 天然植物APG 洗洁精  1.15kg",
+      "link": "https://www.smzdm.com/p/184929307/",
+      "price": 4.9,
+      "image": "https://y.zdmimg.com/202310/12/6526f323abaa19464.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "4.9元（需用券）",
+      "published": "2026-10-29T06:49:56.172976+00:00",
+      "published_ts": 1793256596.172976
+    },
+    {
+      "title": "淘金币可用：THERMOS 膳魔师 JNL-503 保温杯 500ml",
+      "link": "https://www.smzdm.com/p/184914494/",
+      "price": 56.46,
+      "image": "https://y.zdmimg.com/202510/28/68ffb9f01a3688140.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "56.46元正文更低价45.48元（需买2件，需用券）",
+      "published": "2026-10-29T06:49:56.172943+00:00",
+      "published_ts": 1793256596.172943
+    },
+    {
+      "title": "维达 抽纸 棉韧3层100抽*24包M码 餐巾纸纸抽 纸巾 整箱",
+      "link": "https://www.smzdm.com/p/184931080/",
+      "price": 29.9,
+      "image": "https://y.zdmimg.com/202509/19/68cd153db487a208.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "29.9元（需买3件，需用券）",
+      "published": "2026-10-29T06:49:56.172906+00:00",
+      "published_ts": 1793256596.172906
+    },
+    {
+      "title": "滴露 衣物除菌液 3L 舒缓薰衣草",
+      "link": "https://www.smzdm.com/p/184928811/",
+      "price": 43.92,
+      "image": "https://y.zdmimg.com/202507/15/68756998a20451242.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "43.92元",
+      "published": "2026-10-29T06:49:56.172869+00:00",
+      "published_ts": 1793256596.172869
+    },
+    {
+      "title": "無印良品 MUJI 不锈钢吸管杯 银色 1.2L 保温杯",
+      "link": "https://www.smzdm.com/p/184944027/",
+      "price": 65.39,
+      "image": "https://y.zdmimg.com/202609/10/6aa24b2ad2cf16442.png_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "65.39元（需买2件，需用券）",
+      "published": "2026-10-29T06:49:56.172813+00:00",
+      "published_ts": 1793256596.172813
+    },
+    {
+      "title": "维达 棉韧抽纸 3层100抽*24包S码  AB混发",
+      "link": "https://www.smzdm.com/p/184906932/",
+      "price": 21.19,
+      "image": "https://y.zdmimg.com/202610/26/6adf1e38059cd4883.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "21.19元（需买2件，需用券）",
+      "published": "2026-10-29T06:49:56.172734+00:00",
+      "published_ts": 1793256596.172734
+    },
+    {
+      "title": "维达 洗脸巾120抽*1提 一次性毛巾悬挂式擦脸巾学生宿舍",
+      "link": "https://www.smzdm.com/p/184941796/",
+      "price": 6.9,
+      "image": "https://y.zdmimg.com/202507/10/686ea8c1f30626407.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "6.9元（需用券）",
+      "published": "2026-10-29T06:49:56.172683+00:00",
+      "published_ts": 1793256596.172683
+    },
+    {
+      "title": "e洁 自动收口抽绳垃圾袋 45*50cm 180只",
+      "link": "https://www.smzdm.com/p/184919380/",
+      "price": 10.9,
+      "image": "https://y.zdmimg.com/202610/27/6ae0390a6f1ed8651.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "10.9元返10积分后",
+      "published": "2026-10-29T06:49:56.172620+00:00",
+      "published_ts": 1793256596.17262
+    },
+    {
+      "title": "今日必买：清风 抽纸悬挂式柔软亲肤 4层250抽*10提/10000张整箱",
+      "link": "https://www.smzdm.com/p/184862746/",
+      "price": 19.9,
+      "image": "https://y.zdmimg.com/202610/25/6add52b1f45f25823.jpg_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·日用百货榜",
+      "summary": "19.9元（需买3件，需用券）",
+      "published": "2026-10-29T06:49:56.172547+00:00",
+      "published_ts": 1793256596.172547
     },
     {
       "title": "活力28 新升级 薰衣草香芬芳洗衣液 12斤 折1.57/斤",
@@ -905,118 +905,19 @@
       "category": "日用百货",
       "source": "什么值得买·日用百货榜",
       "summary": "18.4元返5积分后",
-      "published": "2026-10-29T06:11:39.689202+00:00",
-      "published_ts": 1793254299.689202
+      "published": "2026-10-29T06:49:56.172451+00:00",
+      "published_ts": 1793256596.172451
     },
     {
-      "title": "美的 MK-SP50E-20WPro 316L不锈钢 5L 黑色 电热水壶",
-      "link": "https://www.smzdm.com/p/184938274/",
-      "price": 220.78,
-      "image": "https://y.zdmimg.com/202609/18/6aad0c97f53415013.png_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·家用电器榜",
-      "summary": "220.78元（需用券）",
-      "published": "2026-10-29T06:11:39.620417+00:00",
-      "published_ts": 1793254299.620417
-    },
-    {
-      "title": "PLUS会员：美的 HGE2615 0涂层不锈钢 4L 电火锅",
-      "link": "https://www.smzdm.com/p/184929966/",
-      "price": 73.05,
-      "image": "https://y.zdmimg.com/202609/28/6ab9cf3e3bfe87015.png_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "73.05元（需用券）",
-      "published": "2026-10-29T06:11:39.620313+00:00",
-      "published_ts": 1793254299.620313
-    },
-    {
-      "title": "家电家居组合购、今日必买：追觅 S50 增强版 扫地机器人 超薄上下水版",
-      "link": "https://www.smzdm.com/p/184930295/",
-      "price": 651.65,
-      "image": "https://y.zdmimg.com/202610/12/6acc49f89b4b82614.png_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "1651.65元（多重优惠、组合购低至1583.68元）",
-      "published": "2026-10-29T06:11:39.620208+00:00",
-      "published_ts": 1793254299.620208
-    },
-    {
-      "title": "国家补贴：海信 大薄荷2.0 WF120E5S+WV50G-1 分区洗护四桶 滚筒洗衣机 12kg 白色",
-      "link": "https://www.smzdm.com/p/184920787/",
-      "price": 699.0,
-      "image": "https://y.zdmimg.com/202608/07/6a754f643d1184281.png_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "4699元",
-      "published": "2026-10-29T06:11:39.620098+00:00",
-      "published_ts": 1793254299.620098
-    },
-    {
-      "title": "百亿补贴、今日必买：石头 P20Max 上下水版 全能免洗扫地机扫拖",
-      "link": "https://www.smzdm.com/p/184928368/",
-      "price": 411.52,
-      "image": "https://y.zdmimg.com/202610/28/6ae1a697b5a822503.jpg_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "2411.52元",
-      "published": "2026-10-29T06:11:39.619981+00:00",
-      "published_ts": 1793254299.619981
-    },
-    {
-      "title": "海尔 小海鲸 JSLQ27-16K70HMAXFU1 恒温增压 燃气热水器 16L",
-      "link": "https://www.smzdm.com/p/184929979/",
-      "price": 95.05,
-      "image": "https://y.zdmimg.com/202610/26/6adf4a8af9e819910.jpg_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "2095.05元（需用券）",
-      "published": "2026-10-29T06:11:39.619874+00:00",
-      "published_ts": 1793254299.619874
-    },
-    {
-      "title": "PLUS会员：九阳 GZ998 电蒸锅 18.5L",
-      "link": "https://www.smzdm.com/p/184930005/",
-      "price": 231.87,
-      "image": "https://y.zdmimg.com/202507/22/687f5ad2b0e194974.jpg_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "231.87元",
-      "published": "2026-10-29T06:11:39.619767+00:00",
-      "published_ts": 1793254299.619767
-    },
-    {
-      "title": "国家补贴、PLUS会员：美的 MC-E22DC01 圆形小体积 银色 电磁炉",
-      "link": "https://www.smzdm.com/p/184977675/",
-      "price": 191.54,
-      "image": "https://y.zdmimg.com/202610/03/6ac029c0d347a7437.png_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "191.54元（需用券）",
-      "published": "2026-10-29T06:11:39.619665+00:00",
-      "published_ts": 1793254299.619665
-    },
-    {
-      "title": "小米 S Pro 2026款 L65MC-SP 液晶电视 65寸",
-      "link": "https://www.smzdm.com/p/184950431/",
-      "price": 293.67,
+      "title": "小米 S Pro 2026款 L75MC-SP 液晶电视 75英寸 4K",
+      "link": "https://www.smzdm.com/p/184950545/",
+      "price": 4054.34,
       "image": "https://y.zdmimg.com/202509/19/68ccbafe96edb8965.jpg_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
-      "summary": "3293.67元（需用券）",
-      "published": "2026-10-29T06:11:39.619556+00:00",
-      "published_ts": 1793254299.619556
-    },
-    {
-      "title": "石头 扫拖一体无线洗地机 A30 MAX",
-      "link": "https://www.smzdm.com/p/184922037/",
-      "price": 799.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1442a631fe490.jpg_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "799元",
-      "published": "2026-10-29T06:11:39.619435+00:00",
-      "published_ts": 1793254299.619435
+      "summary": "4054.34元（需用券）",
+      "published": "2026-10-29T06:49:54.824944+00:00",
+      "published_ts": 1793256594.824944
     },
     {
       "title": "SOBOM H1pro扫振一体电动牙刷",
@@ -1026,41 +927,118 @@
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "78.4元",
-      "published": "2026-10-29T06:11:39.619259+00:00",
-      "published_ts": 1793254299.619259
+      "published": "2026-10-29T06:49:54.824904+00:00",
+      "published_ts": 1793256594.824904
     },
     {
-      "title": "88VIP、今日必买：米家 扫地机器人 7C 水箱版",
-      "link": "https://www.smzdm.com/p/184967601/",
-      "price": 307.38,
-      "image": "https://y.zdmimg.com/202609/06/6a9d59835687b2136.jpg_a200.jpg",
+      "title": "美的 MK-SP50E-20WPro 316L不锈钢 5L 黑色 电热水壶",
+      "link": "https://www.smzdm.com/p/184938274/",
+      "price": 220.78,
+      "image": "https://y.zdmimg.com/202609/18/6aad0c97f53415013.png_a200.jpg",
+      "category": "日用百货",
+      "source": "什么值得买·家用电器榜",
+      "summary": "220.78元（需用券）",
+      "published": "2026-10-29T06:49:54.824868+00:00",
+      "published_ts": 1793256594.824868
+    },
+    {
+      "title": "PLUS会员：美的 HGE2615 0涂层不锈钢 4L 电火锅",
+      "link": "https://www.smzdm.com/p/184929966/",
+      "price": 73.05,
+      "image": "https://y.zdmimg.com/202609/28/6ab9cf3e3bfe87015.png_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
-      "summary": "1307.38元（多重优惠）",
-      "published": "2026-10-29T06:11:39.619169+00:00",
-      "published_ts": 1793254299.619169
+      "summary": "73.05元（需用券）",
+      "published": "2026-10-29T06:49:54.824829+00:00",
+      "published_ts": 1793256594.824829
+    },
+    {
+      "title": "家电家居组合购、今日必买：追觅 S50 增强版 扫地机器人 超薄上下水版",
+      "link": "https://www.smzdm.com/p/184930295/",
+      "price": 1651.65,
+      "image": "https://y.zdmimg.com/202610/12/6acc49f89b4b82614.png_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "1651.65元（多重优惠、组合购低至1583.68元）",
+      "published": "2026-10-29T06:49:54.824789+00:00",
+      "published_ts": 1793256594.824789
+    },
+    {
+      "title": "海尔 小海鲸 JSLQ27-16K70HMAXFU1 恒温增压 燃气热水器 16L",
+      "link": "https://www.smzdm.com/p/184929979/",
+      "price": 2095.05,
+      "image": "https://y.zdmimg.com/202610/26/6adf4a8af9e819910.jpg_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "2095.05元（需用券）",
+      "published": "2026-10-29T06:49:54.824745+00:00",
+      "published_ts": 1793256594.824745
+    },
+    {
+      "title": "百亿补贴、今日必买：石头 P20Max 上下水版 全能免洗扫地机扫拖",
+      "link": "https://www.smzdm.com/p/184928368/",
+      "price": 2411.52,
+      "image": "https://y.zdmimg.com/202610/28/6ae1a697b5a822503.jpg_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "2411.52元",
+      "published": "2026-10-29T06:49:54.824695+00:00",
+      "published_ts": 1793256594.824695
+    },
+    {
+      "title": "国家补贴、PLUS会员：美的 MC-E22DC01 圆形小体积 银色 电磁炉",
+      "link": "https://www.smzdm.com/p/184977675/",
+      "price": 191.54,
+      "image": "https://y.zdmimg.com/202610/03/6ac029c0d347a7437.png_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "191.54元（需用券）",
+      "published": "2026-10-29T06:49:54.824654+00:00",
+      "published_ts": 1793256594.824654
+    },
+    {
+      "title": "PLUS会员：九阳 GZ998 电蒸锅 18.5L",
+      "link": "https://www.smzdm.com/p/184930005/",
+      "price": 231.87,
+      "image": "https://y.zdmimg.com/202507/22/687f5ad2b0e194974.jpg_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "231.87元",
+      "published": "2026-10-29T06:49:54.824611+00:00",
+      "published_ts": 1793256594.824611
+    },
+    {
+      "title": "Ulike Air20光子冰点蓝宝石脱毛仪院线全身脱毛适用智能测肤送女友礼物生日礼物",
+      "link": "https://www.smzdm.com/p/184971831/",
+      "price": 1310.23,
+      "image": "https://y.zdmimg.com/202610/29/6ae2afeaf6b029628.jpg_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "1310.23元（需用券）",
+      "published": "2026-10-29T06:49:54.824572+00:00",
+      "published_ts": 1793256594.824572
+    },
+    {
+      "title": "小米 S Pro 2026款 L65MC-SP 液晶电视 65寸",
+      "link": "https://www.smzdm.com/p/184950431/",
+      "price": 3293.67,
+      "image": "https://y.zdmimg.com/202509/19/68ccbafe96edb8965.jpg_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "3293.67元（需用券）",
+      "published": "2026-10-29T06:49:54.824505+00:00",
+      "published_ts": 1793256594.824505
     },
     {
       "title": "国家补贴：小米 S65 Mini LED 低反屏532分区高刷家用智能高清护眼电视机",
       "link": "https://www.smzdm.com/p/184938308/",
-      "price": 478.91,
+      "price": 2478.91,
       "image": "https://y.zdmimg.com/202507/25/68828edb6f91b4171.jpg_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "2478.91元",
-      "published": "2026-10-29T06:11:39.619069+00:00",
-      "published_ts": 1793254299.619069
-    },
-    {
-      "title": "淘金币可用：美的 机皇2.0系列 BCD-520WUFJDPZ(E) 风冷法式门冰箱 520L 云隐白",
-      "link": "https://www.smzdm.com/p/184924190/",
-      "price": 956.37,
-      "image": "https://y.zdmimg.com/202609/02/6a981f0a41c226936.png_a200.jpg",
-      "category": "家用电器",
-      "source": "什么值得买·家用电器榜",
-      "summary": "2956.37元（需用券）",
-      "published": "2026-10-29T06:11:39.618966+00:00",
-      "published_ts": 1793254299.618966
+      "published": "2026-10-29T06:49:54.824461+00:00",
+      "published_ts": 1793256594.824461
     },
     {
       "title": "MOVA 活水滚筒扫地机器人扫拖洗烘一体自清洁洗地吸尘机器人热水洗拖布水箱版P70S",
@@ -1070,19 +1048,41 @@
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "999元",
-      "published": "2026-10-29T06:11:39.618855+00:00",
-      "published_ts": 1793254299.618855
+      "published": "2026-10-29T06:49:54.824410+00:00",
+      "published_ts": 1793256594.82441
+    },
+    {
+      "title": "淘金币可用：美的 机皇2.0系列 BCD-520WUFJDPZ(E) 风冷法式门冰箱 520L 云隐白",
+      "link": "https://www.smzdm.com/p/184924190/",
+      "price": 2956.37,
+      "image": "https://y.zdmimg.com/202609/02/6a981f0a41c226936.png_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "2956.37元（需用券）",
+      "published": "2026-10-29T06:49:54.824366+00:00",
+      "published_ts": 1793256594.824366
+    },
+    {
+      "title": "88VIP、今日必买：米家 扫地机器人 7C 水箱版",
+      "link": "https://www.smzdm.com/p/184967601/",
+      "price": 1307.38,
+      "image": "https://y.zdmimg.com/202609/06/6a9d59835687b2136.jpg_a200.jpg",
+      "category": "家用电器",
+      "source": "什么值得买·家用电器榜",
+      "summary": "1307.38元（多重优惠）",
+      "published": "2026-10-29T06:49:54.824318+00:00",
+      "published_ts": 1793256594.824318
     },
     {
       "title": "30日20点：海尔 云溪系列 BCD-503WGHFD1CYXU1 风冷法式多门冰箱 503L 云溪灰",
       "link": "https://www.smzdm.com/p/184926865/",
-      "price": 698.15,
+      "price": 3698.15,
       "image": "https://y.zdmimg.com/202601/08/695f7c92dbd01844.png_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "3698.15元返550积分后",
-      "published": "2026-10-29T06:11:39.618747+00:00",
-      "published_ts": 1793254299.618747
+      "published": "2026-10-29T06:49:54.824274+00:00",
+      "published_ts": 1793256594.824274
     },
     {
       "title": "20点开始、国家补贴、今日必买：米家 高速吹风机",
@@ -1092,8 +1092,8 @@
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "34.91元（限制前10名、晒单返20元）",
-      "published": "2026-10-29T06:11:39.618609+00:00",
-      "published_ts": 1793254299.618609
+      "published": "2026-10-29T06:49:54.824227+00:00",
+      "published_ts": 1793256594.824227
     },
     {
       "title": "蚂蚁阿福 智能体脂秤家用体重秤ai精准减肥称重电子人体秤",
@@ -1103,30 +1103,30 @@
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "0元",
-      "published": "2026-10-29T06:11:39.618496+00:00",
-      "published_ts": 1793254299.618496
+      "published": "2026-10-29T06:49:54.824188+00:00",
+      "published_ts": 1793256594.824188
     },
     {
       "title": "淘金币可用：美的 M60系列 MR-550WUFJDIZE 风冷法式门冰箱 523L 云隐白",
       "link": "https://www.smzdm.com/p/184923911/",
-      "price": 724.56,
+      "price": 3724.56,
       "image": "https://y.zdmimg.com/202609/01/6a968cdd1f29a2920.png_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "3724.56元（需用券）",
-      "published": "2026-10-29T06:11:39.618380+00:00",
-      "published_ts": 1793254299.61838
+      "published": "2026-10-29T06:49:54.824148+00:00",
+      "published_ts": 1793256594.824148
     },
     {
       "title": "小米 S Pro 2026款 L85MC-SP 液晶电视 85英寸 4K",
       "link": "https://www.smzdm.com/p/184950129/",
-      "price": 933.95,
+      "price": 4933.95,
       "image": "https://y.zdmimg.com/202509/19/68ccbce030cc86712.jpg_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "4933.95元（需用券）",
-      "published": "2026-10-29T06:11:39.618285+00:00",
-      "published_ts": 1793254299.618285
+      "published": "2026-10-29T06:49:54.824102+00:00",
+      "published_ts": 1793256594.824102
     },
     {
       "title": "88VIP：飞利浦 S5887/10 SkinIQ智能感应 红色 电动剃须刀",
@@ -1136,8 +1136,8 @@
       "category": "美妆个护",
       "source": "什么值得买·家用电器榜",
       "summary": "278.56元（需用券）",
-      "published": "2026-10-29T06:11:39.618165+00:00",
-      "published_ts": 1793254299.618165
+      "published": "2026-10-29T06:49:54.824060+00:00",
+      "published_ts": 1793256594.82406
     },
     {
       "title": "88VIP、今日必买：飞利浦 旋护5系Pro S5887/10 电动剃须刀",
@@ -1147,19 +1147,19 @@
       "category": "美妆个护",
       "source": "什么值得买·家用电器榜",
       "summary": "278.52元（多重优惠、下单返30元红包）",
-      "published": "2026-10-29T06:11:39.618077+00:00",
-      "published_ts": 1793254299.618077
+      "published": "2026-10-29T06:49:54.824009+00:00",
+      "published_ts": 1793256594.824009
     },
     {
       "title": "国家补贴、PLUS会员：松下 滢风Ⅲ系列 CS-ZY35K410Q/CU-DG35K410Q 新一级能效 壁挂式空调 1.5匹",
       "link": "https://www.smzdm.com/p/184934143/",
-      "price": 444.69,
+      "price": 2444.69,
       "image": "https://y.zdmimg.com/202507/09/686e3b9f7488e3088.jpg_a200.jpg",
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "2444.69元（需用券）",
-      "published": "2026-10-29T06:11:39.617945+00:00",
-      "published_ts": 1793254299.617945
+      "published": "2026-10-29T06:49:54.823933+00:00",
+      "published_ts": 1793256594.823933
     },
     {
       "title": "九阳 F-40NF11 微压加热 4L电饭煲",
@@ -1169,8 +1169,8 @@
       "category": "家用电器",
       "source": "什么值得买·家用电器榜",
       "summary": "86.75元（需用券）",
-      "published": "2026-10-29T06:11:39.617375+00:00",
-      "published_ts": 1793254299.617375
+      "published": "2026-10-29T06:49:54.823812+00:00",
+      "published_ts": 1793256594.823812
     },
     {
       "title": "今日必买：倍乐思 扁桃仁夹心牛奶黑巧克力42g 下午茶巧克力豆",
@@ -1180,8 +1180,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "6.05元返20积分后",
-      "published": "2026-10-29T06:11:39.560161+00:00",
-      "published_ts": 1793254299.560161
+      "published": "2026-10-29T06:49:53.531936+00:00",
+      "published_ts": 1793256593.531936
     },
     {
       "title": "今日必买：沃隆 特大紫衣腰果罐装买一赠一共450g×2罐",
@@ -1191,8 +1191,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "65.4元返45积分后",
-      "published": "2026-10-29T06:11:39.560119+00:00",
-      "published_ts": 1793254299.560119
+      "published": "2026-10-29T06:49:53.531853+00:00",
+      "published_ts": 1793256593.531853
     },
     {
       "title": "今日必买：圣农 鸡翅中 4斤",
@@ -1202,8 +1202,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "75.9元返40积分后",
-      "published": "2026-10-29T06:11:39.560055+00:00",
-      "published_ts": 1793254299.560055
+      "published": "2026-10-29T06:49:53.531728+00:00",
+      "published_ts": 1793256593.531728
     },
     {
       "title": "88VIP、今日必买：乐事 FIFA世界杯口味薯片礼盒525g",
@@ -1213,8 +1213,8 @@
       "category": "日用百货",
       "source": "什么值得买·食品生鲜榜",
       "summary": "14.74元（需用券）",
-      "published": "2026-10-29T06:11:39.559977+00:00",
-      "published_ts": 1793254299.559977
+      "published": "2026-10-29T06:49:53.531659+00:00",
+      "published_ts": 1793256593.531659
     },
     {
       "title": "今日必买：盒马 进口牛肋肉 1kg",
@@ -1224,8 +1224,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "62.06元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.559873+00:00",
-      "published_ts": 1793254299.559873
+      "published": "2026-10-29T06:49:53.531576+00:00",
+      "published_ts": 1793256593.531576
     },
     {
       "title": "88VIP、今日必买：力诚 低脂松叶蟹柳原味 260g 20g*13支",
@@ -1235,8 +1235,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "8.77元（需用券）",
-      "published": "2026-10-29T06:11:39.559781+00:00",
-      "published_ts": 1793254299.559781
+      "published": "2026-10-29T06:49:53.531502+00:00",
+      "published_ts": 1793256593.531502
     },
     {
       "title": "今日必买：蒙牛 每日鲜酪希腊酸奶原味风味酸奶400gx1杯",
@@ -1246,8 +1246,8 @@
       "category": "日用百货",
       "source": "什么值得买·食品生鲜榜",
       "summary": "6.13元返15积分后",
-      "published": "2026-10-29T06:11:39.559669+00:00",
-      "published_ts": 1793254299.559669
+      "published": "2026-10-29T06:49:53.531418+00:00",
+      "published_ts": 1793256593.531418
     },
     {
       "title": "88VIP：洽洽 猫超臻选每日纯坚果小黄袋 600g礼盒",
@@ -1257,30 +1257,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "39.35元淘金币低至33.77元，返40积分后",
-      "published": "2026-10-29T06:11:39.559510+00:00",
-      "published_ts": 1793254299.55951
-    },
-    {
-      "title": "盒马 国产谷饲黄牛牛腱 1.5kg",
-      "link": "https://www.smzdm.com/p/184944872/",
-      "price": 105.85,
-      "image": "https://y.zdmimg.com/202610/28/6ae203e7541ab1474.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·食品生鲜榜",
-      "summary": "105.85元（需用券）",
-      "published": "2026-10-29T06:11:39.559379+00:00",
-      "published_ts": 1793254299.559379
-    },
-    {
-      "title": "鲜秋风物集：佳农 泰国冷冻金枕榴莲肉 净重900g/袋",
-      "link": "https://www.smzdm.com/p/184872459/",
-      "price": 67.4,
-      "image": "https://y.zdmimg.com/202507/07/686b8110cf7ec5488.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·食品生鲜榜",
-      "summary": "67.4元返50积分后",
-      "published": "2026-10-29T06:11:39.559293+00:00",
-      "published_ts": 1793254299.559293
+      "published": "2026-10-29T06:49:53.531338+00:00",
+      "published_ts": 1793256593.531338
     },
     {
       "title": "鲜京采 冷冻三去黄花鱼(宁德大黄鱼)1700g(5条装)礼盒",
@@ -1290,8 +1268,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "106.9元",
-      "published": "2026-10-29T06:11:39.559135+00:00",
-      "published_ts": 1793254299.559135
+      "published": "2026-10-29T06:49:53.531256+00:00",
+      "published_ts": 1793256593.531256
     },
     {
       "title": "今日必买：西麦 即食纯燕麦片 1kg*2 【送5黑谷物燕麦120g+勺子】",
@@ -1301,8 +1279,30 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "19.9元返30积分后",
-      "published": "2026-10-29T06:11:39.558880+00:00",
-      "published_ts": 1793254299.55888
+      "published": "2026-10-29T06:49:53.531174+00:00",
+      "published_ts": 1793256593.531174
+    },
+    {
+      "title": "盒马 国产谷饲黄牛牛腱 1.5kg",
+      "link": "https://www.smzdm.com/p/184944872/",
+      "price": 105.85,
+      "image": "https://y.zdmimg.com/202610/28/6ae203e7541ab1474.jpg_a200.jpg",
+      "category": "食品生鲜",
+      "source": "什么值得买·食品生鲜榜",
+      "summary": "105.85元（需用券）",
+      "published": "2026-10-29T06:49:53.531082+00:00",
+      "published_ts": 1793256593.531082
+    },
+    {
+      "title": "鲜秋风物集：佳农 泰国冷冻金枕榴莲肉 净重900g/袋",
+      "link": "https://www.smzdm.com/p/184872459/",
+      "price": 67.4,
+      "image": "https://y.zdmimg.com/202507/07/686b8110cf7ec5488.jpg_a200.jpg",
+      "category": "食品生鲜",
+      "source": "什么值得买·食品生鲜榜",
+      "summary": "67.4元返50积分后",
+      "published": "2026-10-29T06:49:53.530963+00:00",
+      "published_ts": 1793256593.530963
     },
     {
       "title": "上次卖爆、2.5cm厚切！：鲜京采 澳洲Coles谷饲原切上脑牛排 净重1kg装",
@@ -1312,8 +1312,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "109元（需用券）",
-      "published": "2026-10-29T06:11:39.558806+00:00",
-      "published_ts": 1793254299.558806
+      "published": "2026-10-29T06:49:53.530884+00:00",
+      "published_ts": 1793256593.530884
     },
     {
       "title": "今日必买：光明 4.0g蛋白纯牛奶 200ml*24盒",
@@ -1323,8 +1323,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "37.72元（需用券）",
-      "published": "2026-10-29T06:11:39.558743+00:00",
-      "published_ts": 1793254299.558743
+      "published": "2026-10-29T06:49:53.530793+00:00",
+      "published_ts": 1793256593.530793
     },
     {
       "title": "88VIP：可口可乐 COSTA香草冰淇淋拿铁咖啡饮料270ml*15瓶",
@@ -1334,8 +1334,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "26.67元（需用券）",
-      "published": "2026-10-29T06:11:39.558691+00:00",
-      "published_ts": 1793254299.558691
+      "published": "2026-10-29T06:49:53.530714+00:00",
+      "published_ts": 1793256593.530714
     },
     {
       "title": "沃隆 每日坚果 600g坚果星球30日装",
@@ -1345,8 +1345,8 @@
       "category": "运动户外",
       "source": "什么值得买·食品生鲜榜",
       "summary": "37.25元返45积分后",
-      "published": "2026-10-29T06:11:39.558635+00:00",
-      "published_ts": 1793254299.558635
+      "published": "2026-10-29T06:49:53.530625+00:00",
+      "published_ts": 1793256593.530625
     },
     {
       "title": "今日必买：京觅 新果上市、每斤3元！当季江西赣南脐橙 净重9斤",
@@ -1356,8 +1356,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "27.9元（需用券）",
-      "published": "2026-10-29T06:11:39.558503+00:00",
-      "published_ts": 1793254299.558503
+      "published": "2026-10-29T06:49:53.530547+00:00",
+      "published_ts": 1793256593.530547
     },
     {
       "title": "今日必买：老四川 重庆特产 麻辣牛肉60g（任选10件）",
@@ -1367,8 +1367,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "4.79元返20积分后",
-      "published": "2026-10-29T06:11:39.558356+00:00",
-      "published_ts": 1793254299.558356
+      "published": "2026-10-29T06:49:53.530461+00:00",
+      "published_ts": 1793256593.530461
     },
     {
       "title": "今日必买：上鲜 奥尔良鸡翅 净重2斤（翅中1斤+翅根1斤）",
@@ -1378,8 +1378,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "27.45元返20积分后",
-      "published": "2026-10-29T06:11:39.558268+00:00",
-      "published_ts": 1793254299.558268
+      "published": "2026-10-29T06:49:53.530381+00:00",
+      "published_ts": 1793256593.530381
     },
     {
       "title": "今日必买：金典 3.6g乳蛋白 纯牛奶250ml*24盒",
@@ -1389,8 +1389,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "36.23元",
-      "published": "2026-10-29T06:11:39.558159+00:00",
-      "published_ts": 1793254299.558159
+      "published": "2026-10-29T06:49:53.530296+00:00",
+      "published_ts": 1793256593.530296
     },
     {
       "title": "今日必买：沃隆 210g*2罐紫衣腰果",
@@ -1400,8 +1400,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "27.9元返20积分后",
-      "published": "2026-10-29T06:11:39.558067+00:00",
-      "published_ts": 1793254299.558067
+      "published": "2026-10-29T06:49:53.530207+00:00",
+      "published_ts": 1793256593.530207
     },
     {
       "title": "上次卖爆、每斤2元、今日必买：京鲜生 新鲜阳丰脆柿 净重8.5斤",
@@ -1411,8 +1411,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "19.99元",
-      "published": "2026-10-29T06:11:39.557924+00:00",
-      "published_ts": 1793254299.557924
+      "published": "2026-10-29T06:49:53.530030+00:00",
+      "published_ts": 1793256593.53003
     },
     {
       "title": "88VIP：温氏 供港老母鸡 1.2kg",
@@ -1422,8 +1422,8 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "19.02元（需买2件，需用券）",
-      "published": "2026-10-29T06:11:39.557780+00:00",
-      "published_ts": 1793254299.55778
+      "published": "2026-10-29T06:49:53.529855+00:00",
+      "published_ts": 1793256593.529855
     },
     {
       "title": "喜之郎 蒟蒻果汁果冻桶 520克*2桶（52包）",
@@ -1433,85 +1433,63 @@
       "category": "食品生鲜",
       "source": "什么值得买·食品生鲜榜",
       "summary": "14.4元返25积分后",
-      "published": "2026-10-29T06:11:39.557620+00:00",
-      "published_ts": 1793254299.55762
+      "published": "2026-10-29T06:49:53.529685+00:00",
+      "published_ts": 1793256593.529685
     },
     {
-      "title": "今日必买：苹果 iPhone 18 Pro Max 手机",
-      "link": "https://www.smzdm.com/p/184936807/",
-      "price": 949.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1d17bcd8279482.jpg_a200.jpg",
+      "title": "荣耀 Magic8 Pro Air 5G手机",
+      "link": "https://www.smzdm.com/p/184935955/",
+      "price": 2674.85,
+      "image": "https://y.zdmimg.com/202601/20/696ee43a03b8d8251.png_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
-      "summary": "9949元（需用券）",
-      "published": "2026-10-29T06:11:39.473230+00:00",
-      "published_ts": 1793254299.47323
-    },
-    {
-      "title": "淘金币可用：苹果 iPhone 18 Pro Max 5G手机 256GB",
-      "link": "https://www.smzdm.com/p/184944042/",
-      "price": 199.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1c1c7db6878068.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "10199元（淘金币后9979.02元）",
-      "published": "2026-10-29T06:11:39.473071+00:00",
-      "published_ts": 1793254299.473071
-    },
-    {
-      "title": "14600kf/13600kf板u套",
-      "link": "https://www.smzdm.com/p/184935602/",
-      "price": 490.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1c846ec085562.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "1490元（需用券）",
-      "published": "2026-10-29T06:11:39.472894+00:00",
-      "published_ts": 1793254299.472894
+      "summary": "2674.85元",
+      "published": "2026-10-29T06:49:52.268277+00:00",
+      "published_ts": 1793256592.268277
     },
     {
       "title": "苹果 iPad mini8 2026款（A20 Pro、128GB） 平板电脑",
       "link": "https://www.smzdm.com/p/184953819/",
-      "price": 99.0,
+      "price": 4099.0,
       "image": "https://y.zdmimg.com/202610/29/6ae239c95cf3e2654.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "4099元（需用券）",
-      "published": "2026-10-29T06:11:39.472752+00:00",
-      "published_ts": 1793254299.472752
+      "published": "2026-10-29T06:49:52.268201+00:00",
+      "published_ts": 1793256592.268201
+    },
+    {
+      "title": "14600kf/13600kf板u套",
+      "link": "https://www.smzdm.com/p/184935602/",
+      "price": 1490.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1c846ec085562.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "1490元（需用券）",
+      "published": "2026-10-29T06:49:52.268113+00:00",
+      "published_ts": 1793256592.268113
+    },
+    {
+      "title": "淘金币可用：苹果 iPhone 18 Pro Max 5G手机 256GB",
+      "link": "https://www.smzdm.com/p/184944042/",
+      "price": 10199.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1c1c7db6878068.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "10199元（淘金币后9979.02元）",
+      "published": "2026-10-29T06:49:52.267987+00:00",
+      "published_ts": 1793256592.267987
     },
     {
       "title": "小米 17 Ultra 5G手机 16GB+512GB 白色 第五代骁龙8至尊版",
       "link": "https://www.smzdm.com/p/184941567/",
-      "price": 155.38,
+      "price": 6155.38,
       "image": "https://y.zdmimg.com/202602/27/69a14d279030e3069.png_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "6155.38元（需用券）",
-      "published": "2026-10-29T06:11:39.472660+00:00",
-      "published_ts": 1793254299.47266
-    },
-    {
-      "title": "国家补贴、88VIP：苹果 AirPods 5 (配无线充电盒) 主动降噪2026年新款",
-      "link": "https://www.smzdm.com/p/184969219/",
-      "price": 691.97,
-      "image": "https://y.zdmimg.com/202610/29/6ae29b84c05b558.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "691.97元",
-      "published": "2026-10-29T06:11:39.472566+00:00",
-      "published_ts": 1793254299.472566
-    },
-    {
-      "title": "88VIP：尼康 NIKKOR Z 24-120mm f/4 S 多倍变焦镜头 尼康Z卡口 77mm 国行正品",
-      "link": "https://www.smzdm.com/p/184924229/",
-      "price": 897.88,
-      "image": "https://y.zdmimg.com/202511/25/69259bd0f81548478.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "5897.88元（需用券，淘金币后5858.51元）",
-      "published": "2026-10-29T06:11:39.472478+00:00",
-      "published_ts": 1793254299.472478
+      "published": "2026-10-29T06:49:52.267898+00:00",
+      "published_ts": 1793256592.267898
     },
     {
       "title": "百亿补贴：酷态科 CP13电能块电芯10000毫安移动迷你便携电源小巧适用苹果17",
@@ -1521,74 +1499,96 @@
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "58.8元",
-      "published": "2026-10-29T06:11:39.472385+00:00",
-      "published_ts": 1793254299.472385
+      "published": "2026-10-29T06:49:52.267821+00:00",
+      "published_ts": 1793256592.267821
     },
     {
-      "title": "88VIP：OPPO Find X9 Ultra 旗舰手机 哈苏10倍光变长焦 官方正品oppo手机findx9系列",
-      "link": "https://www.smzdm.com/p/184934454/",
-      "price": 776.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae1c36dd9db08669.jpg_a200.jpg",
+      "title": "88VIP：尼康 NIKKOR Z 24-120mm f/4 S 多倍变焦镜头 尼康Z卡口 77mm 国行正品",
+      "link": "https://www.smzdm.com/p/184924229/",
+      "price": 5897.88,
+      "image": "https://y.zdmimg.com/202511/25/69259bd0f81548478.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
-      "summary": "5776元（需用券）",
-      "published": "2026-10-29T06:11:39.472303+00:00",
-      "published_ts": 1793254299.472303
-    },
-    {
-      "title": "今日必买：联想 小新平板Pro GT 11.1英寸（骁龙8 Gen3、8GB、256GB、3.2K） 平板电脑",
-      "link": "https://www.smzdm.com/p/184925055/",
-      "price": 267.44,
-      "image": "https://y.zdmimg.com/202509/26/68d606767af463312.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "1267.44元",
-      "published": "2026-10-29T06:11:39.472265+00:00",
-      "published_ts": 1793254299.472265
-    },
-    {
-      "title": "苹果 Watch Series 12 智能手表 运动健康心率监测",
-      "link": "https://www.smzdm.com/p/184921951/",
-      "price": 230.65,
-      "image": "https://y.zdmimg.com/202610/28/6ae1935f0359a8598.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "2230.65元",
-      "published": "2026-10-29T06:11:39.472228+00:00",
-      "published_ts": 1793254299.472228
+      "summary": "5897.88元（需用券，淘金币后5858.51元）",
+      "published": "2026-10-29T06:49:52.267735+00:00",
+      "published_ts": 1793256592.267735
     },
     {
       "title": "今日必买：苹果 iPad 2025款 11英寸 平板电脑 128GB",
       "link": "https://www.smzdm.com/p/184923729/",
-      "price": 591.0,
+      "price": 2591.0,
       "image": "https://qny.smzdm.com/202503/05/67c7aeba8d3d4136.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "2591元",
-      "published": "2026-10-29T06:11:39.472198+00:00",
-      "published_ts": 1793254299.472198
+      "published": "2026-10-29T06:49:52.267636+00:00",
+      "published_ts": 1793256592.267636
+    },
+    {
+      "title": "88VIP：OPPO Find X9 Ultra 旗舰手机 哈苏10倍光变长焦 官方正品oppo手机findx9系列",
+      "link": "https://www.smzdm.com/p/184934454/",
+      "price": 5776.0,
+      "image": "https://y.zdmimg.com/202610/28/6ae1c36dd9db08669.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "5776元（需用券）",
+      "published": "2026-10-29T06:49:52.267549+00:00",
+      "published_ts": 1793256592.267549
+    },
+    {
+      "title": "今日必买：联想 小新平板Pro GT 11.1英寸（骁龙8 Gen3、8GB、256GB、3.2K） 平板电脑",
+      "link": "https://www.smzdm.com/p/184925055/",
+      "price": 1267.44,
+      "image": "https://y.zdmimg.com/202509/26/68d606767af463312.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "1267.44元",
+      "published": "2026-10-29T06:49:52.267457+00:00",
+      "published_ts": 1793256592.267457
+    },
+    {
+      "title": "苹果 Watch Series 12 智能手表 运动健康心率监测",
+      "link": "https://www.smzdm.com/p/184921951/",
+      "price": 2230.65,
+      "image": "https://y.zdmimg.com/202610/28/6ae1935f0359a8598.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "2230.65元",
+      "published": "2026-10-29T06:49:52.267366+00:00",
+      "published_ts": 1793256592.267366
+    },
+    {
+      "title": "国家补贴、88VIP：苹果 AirPods 5 (配无线充电盒) 主动降噪2026年新款",
+      "link": "https://www.smzdm.com/p/184969219/",
+      "price": 691.97,
+      "image": "https://y.zdmimg.com/202610/29/6ae29b84c05b558.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "691.97元",
+      "published": "2026-10-29T06:49:52.267291+00:00",
+      "published_ts": 1793256592.267291
     },
     {
       "title": "国家补贴：苹果 iPhone 17 智能手机 256GB",
       "link": "https://www.smzdm.com/p/184966804/",
-      "price": 898.0,
+      "price": 4898.0,
       "image": "https://y.zdmimg.com/202608/17/6a8283e8bf8c16204.png_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "4898元（返300元超级红包后）",
-      "published": "2026-10-29T06:11:39.472165+00:00",
-      "published_ts": 1793254299.472165
+      "published": "2026-10-29T06:49:52.267206+00:00",
+      "published_ts": 1793256592.267206
     },
     {
-      "title": "影石 Luna Ultra 运动相机",
-      "link": "https://www.smzdm.com/p/184937021/",
-      "price": 101.65,
-      "image": "https://y.zdmimg.com/202609/28/6ab9a45fd7a4b8913.jpg_a200.jpg",
+      "title": "影石 Ace Pro 2 AI防抖运动相机",
+      "link": "https://www.smzdm.com/p/184941520/",
+      "price": 1600.0,
+      "image": "https://y.zdmimg.com/202601/04/695a80730014b500.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
-      "summary": "3101.65元（需用券）",
-      "published": "2026-10-29T06:11:39.472133+00:00",
-      "published_ts": 1793254299.472133
+      "summary": "1600元（需用券）",
+      "published": "2026-10-29T06:49:52.267128+00:00",
+      "published_ts": 1793256592.267128
     },
     {
       "title": "红米 小米（MI）REDMI 27英寸2K显示器 120Hz高刷新率 IPS技术 双重广色域电脑办公显示器 A27Q 2026款",
@@ -1598,52 +1598,30 @@
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "539元",
-      "published": "2026-10-29T06:11:39.472105+00:00",
-      "published_ts": 1793254299.472105
-    },
-    {
-      "title": "影石 Ace Pro 2 AI防抖运动相机",
-      "link": "https://www.smzdm.com/p/184941520/",
-      "price": 600.0,
-      "image": "https://y.zdmimg.com/202601/04/695a80730014b500.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "1600元（需用券）",
-      "published": "2026-10-29T06:11:39.472067+00:00",
-      "published_ts": 1793254299.472067
-    },
-    {
-      "title": "吾空 CP1 夹耳式无线蓝牙耳机 星空灰",
-      "link": "https://www.smzdm.com/p/184922925/",
-      "price": 29.0,
-      "image": "https://y.zdmimg.com/202610/28/6ae196ab1d7ab4998.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·电脑数码榜",
-      "summary": "29元（需用券）",
-      "published": "2026-10-29T06:11:39.472038+00:00",
-      "published_ts": 1793254299.472038
+      "published": "2026-10-29T06:49:52.267056+00:00",
+      "published_ts": 1793256592.267056
     },
     {
       "title": "今日必买：小米 MI/MIX Flip 2 5G 折叠屏手机 徕卡影像 超大外屏 全网通 梅子青 12GB+512GB",
       "link": "https://www.smzdm.com/p/184933522/",
-      "price": 999.0,
+      "price": 2999.0,
       "image": "https://y.zdmimg.com/202601/28/69796397209ac329.png_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "2999元",
-      "published": "2026-10-29T06:11:39.472010+00:00",
-      "published_ts": 1793254299.47201
+      "published": "2026-10-29T06:49:52.266962+00:00",
+      "published_ts": 1793256592.266962
     },
     {
       "title": "红米 K90 Max 手机",
       "link": "https://www.smzdm.com/p/184940489/",
-      "price": 194.43,
+      "price": 2194.43,
       "image": "https://y.zdmimg.com/202604/21/69e6dfacad40a6463.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "2194.43元",
-      "published": "2026-10-29T06:11:39.471972+00:00",
-      "published_ts": 1793254299.471972
+      "published": "2026-10-29T06:49:52.266868+00:00",
+      "published_ts": 1793256592.266868
     },
     {
       "title": "酷态科 10号电能基站单体 120W氮化镓快充 桌面充电站",
@@ -1653,30 +1631,30 @@
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "139.9元",
-      "published": "2026-10-29T06:11:39.471943+00:00",
-      "published_ts": 1793254299.471943
+      "published": "2026-10-29T06:49:52.266796+00:00",
+      "published_ts": 1793256592.266796
     },
     {
       "title": "早买早省：苹果 Mac mini 2026（M6（12+12） 24GB、512GB）",
       "link": "https://www.smzdm.com/p/184122908/",
-      "price": 224.15,
+      "price": 7224.15,
       "image": "https://y.zdmimg.com/202608/27/6a8fe29308fbb149.png_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "7224.15元",
-      "published": "2026-10-29T06:11:39.471908+00:00",
-      "published_ts": 1793254299.471908
+      "published": "2026-10-29T06:49:52.266716+00:00",
+      "published_ts": 1793256592.266716
     },
     {
       "title": "苹果 iPhone 17 Pro 5G手机 256GB",
       "link": "https://www.smzdm.com/p/184953930/",
-      "price": 999.0,
+      "price": 6999.0,
       "image": "https://y.zdmimg.com/202601/29/697b6ab9f43a18787.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "6999元",
-      "published": "2026-10-29T06:11:39.471853+00:00",
-      "published_ts": 1793254299.471853
+      "published": "2026-10-29T06:49:52.266628+00:00",
+      "published_ts": 1793256592.266628
     },
     {
       "title": "今日必买：wps 超级会员3年+京东PLUS年卡/喜马拉雅/网易/优酷年卡",
@@ -1686,787 +1664,589 @@
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "238元（需用券）",
-      "published": "2026-10-29T06:11:39.471790+00:00",
-      "published_ts": 1793254299.47179
+      "published": "2026-10-29T06:49:52.266529+00:00",
+      "published_ts": 1793256592.266529
+    },
+    {
+      "title": "wps 超级会员3年+京东PLUS年卡/喜马拉雅/网易/优酷年卡",
+      "link": "https://www.smzdm.com/p/184513066/",
+      "price": 225.0,
+      "image": "https://y.zdmimg.com/202606/18/6a334ef38db034891.png_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "225元返130积分后",
+      "published": "2026-10-29T06:49:52.266365+00:00",
+      "published_ts": 1793256592.266365
+    },
+    {
+      "title": "影石 Luna Ultra 运动相机",
+      "link": "https://www.smzdm.com/p/184937021/",
+      "price": 3101.65,
+      "image": "https://y.zdmimg.com/202609/28/6ab9a45fd7a4b8913.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·电脑数码榜",
+      "summary": "3101.65元（需用券）",
+      "published": "2026-10-29T06:49:52.266222+00:00",
+      "published_ts": 1793256592.266222
     },
     {
       "title": "影石 Luna Ultra 8K徕卡双摄云台相机",
       "link": "https://www.smzdm.com/p/184939928/",
-      "price": 987.55,
+      "price": 2987.55,
       "image": "https://y.zdmimg.com/202607/17/6a59fb0c3d2d97847.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·电脑数码榜",
       "summary": "2987.55元",
-      "published": "2026-10-29T06:11:39.471674+00:00",
-      "published_ts": 1793254299.471674
+      "published": "2026-10-29T06:49:52.266103+00:00",
+      "published_ts": 1793256592.266103
     },
     {
-      "title": "斐乐猫爪4丨FILA老爹鞋秋季女鞋男鞋黑色鞋子运动鞋休闲鞋厚底鞋 279元",
-      "link": "https://new.xianbao.fun/weibo/7335364.html",
-      "price": 279.0,
-      "image": null,
-      "category": "服饰鞋包",
-      "source": "线报酷",
-      "summary": "斐乐猫爪4/5凑后都是2794礼金 斐乐猫爪4丨FILA老爹鞋秋季女鞋男鞋黑色鞋子运动鞋休闲鞋厚底鞋",
-      "published": "2026-10-29T06:11:20+00:00",
-      "published_ts": 1793254280.0
-    },
-    {
-      "title": "好来牙膏清新双效200g*4支 6.5元",
-      "link": "https://new.xianbao.fun/weibo/7335366.html",
-      "price": 6.5,
-      "image": null,
-      "category": "美妆个护",
-      "source": "线报酷",
-      "summary": "好来牙膏有货还可以买 猫超 领超红好来牙膏清新双效200g*4支，领券+礼金详情页进入淘金币直播间加购凑200-25消费券拍1件vip用15福袋9.5，如返3猫超红包到手【6.5】凑单拍1件",
-      "published": "2026-10-29T06:11:10+00:00",
-      "published_ts": 1793254270.0
-    },
-    {
-      "title": "绿福摩三文鱼猫粮10磅 274.7元",
-      "link": "https://new.xianbao.fun/haodan/7335367.html",
-      "price": 274.7,
-      "image": null,
-      "category": "食品生鲜",
-      "source": "线报酷",
-      "summary": "豪车❗效期至27.4绿福摩三文鱼猫粮10磅①右上角在播直播间领9折券再“47”号加购②需88vip480-60消费券③详情页领500-50国际券88vip 凑单274.7元",
-      "published": "2026-10-29T06:11:10+00:00",
-      "published_ts": 1793254270.0
-    },
-    {
-      "title": "1.1元红包现在还有 15分截止 都有1.1元吗 或淘宝搜 快乐购不停",
-      "link": "https://new.xianbao.fun/weibo/7335362.html",
-      "price": 1.1,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "1.1元红包现在还有，15分截止 都有1.1元吗[锦鲤附体]或淘宝搜“快乐购不停”",
-      "published": "2026-10-29T06:11:09+00:00",
-      "published_ts": 1793254269.0
-    },
-    {
-      "title": "彩红房子积木片组合套装共70片 9.9元",
-      "link": "https://new.xianbao.fun/haodan/7335363.html",
+      "title": "云听APP 360天听书讲书VIP会员年卡 9.9元",
+      "link": "https://new.xianbao.fun/weibo/7335632.html",
       "price": 9.9,
       "image": null,
       "category": "其他",
       "source": "线报酷",
-      "summary": "有漏！彩红房子积木片好玩多变，娃的玩耍率超高组合套装！共70片💰9.9元---下单:",
-      "published": "2026-10-29T06:11:00+00:00",
-      "published_ts": 1793254260.0
+      "summary": "JD【9.9】云听APP 360天听书讲书VIP会员年卡",
+      "published": "2026-10-29T06:48:23+00:00",
+      "published_ts": 1793256503.0
     },
     {
-      "title": "1.1亓剩最后4分钟 持续15分钟到14:15分结束 速冲 必中1.1亓随机6.",
-      "link": "https://new.xianbao.fun/weibo/7335360.html",
-      "price": null,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "速度！1.1亓剩最后4分钟 持续15分钟到14:15分结束 速冲！🧧必中1.1亓随机6.6 ⏰️14:00-14:15限时不限量 ❤淘宝αpp搜：快乐购不停 00￥TphnTBdMVMS￥/:/ HU7177 ️日常次数记得先拎 白号必中1.1亓❤丐友随机6.6🧧 概率1111亓",
-      "published": "2026-10-29T06:10:55+00:00",
-      "published_ts": 1793254255.0
-    },
-    {
-      "title": "还有几分钟就结束 评论有反馈中了6.6 有6.6的吗 淘宝1.1元红包",
-      "link": "https://new.xianbao.fun/weibo/7335358.html",
-      "price": 1.1,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "还有几分钟就结束，评论有反馈中了6.6 有6.6的吗？ 淘宝1.1元红包👉淘宝换号可以搜：快乐购不停 京东搜：福利天天领734",
-      "published": "2026-10-29T06:10:33+00:00",
-      "published_ts": 1793254233.0
-    },
-    {
-      "title": "还有5分钟领取时间 淘宝搜 淘宝搜：快乐购不停 京东搜：福利天天领734 ⏰⏰ 14点-14点15 加码",
-      "link": "https://new.xianbao.fun/weibo/7335356.html",
-      "price": null,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "还有5分钟领取时间。淘宝搜：快乐购不停 京东搜：福利天天领734 ⏰⏰【14点-14点15】加码超红1.1元起，随机6.6元淘宝搜：快乐购不停 京东搜：福利天天领734（额外机会，先把日常次数点完❗️）",
-      "published": "2026-10-29T06:10:21+00:00",
-      "published_ts": 1793254221.0
-    },
-    {
-      "title": "波司登连帽短款收腰羽绒服 624.4元",
-      "link": "https://new.xianbao.fun/weibo/7335355.html",
-      "price": 624.4,
-      "image": null,
-      "category": "服饰鞋包",
-      "source": "线报酷",
-      "summary": "【凑单624.4】波司登 连帽短款收腰羽绒服领148.87元礼金+叠加88会员1500-180消费券，在商品右上角点击“...”，再点击右下角“淘金币”，抵扣6.99元！",
-      "published": "2026-10-29T06:10:12+00:00",
-      "published_ts": 1793254212.0
-    },
-    {
-      "title": "蕉下保暖加绒口罩男女薄绒 44元",
-      "link": "https://new.xianbao.fun/haodan/7335354.html",
-      "price": 44.0,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "蕉下保暖加绒口罩男女薄绒💰44，厚绒💰61下单:",
-      "published": "2026-10-29T06:10:00+00:00",
-      "published_ts": 1793254200.0
-    },
-    {
-      "title": "最后5分钟 都领好了吗 依旧1.1元 有领到6.6的吗 换号可手淘搜 淘宝搜：快乐购不停 京东搜：福利天天领734",
-      "link": "https://new.xianbao.fun/weibo/7335352.html",
-      "price": 1.1,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "最后5分钟，都领好了吗 依旧1.1元，有领到6.6的吗换号可手淘搜：快乐购不停 京东搜：福利天天领734",
-      "published": "2026-10-29T06:09:55+00:00",
-      "published_ts": 1793254195.0
-    },
-    {
-      "title": "最后5分钟啦 记得领 必中1.1元 超红加码直达 或app搜 快乐购不停",
-      "link": "https://new.xianbao.fun/weibo/7335349.html",
-      "price": 1.1,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "最后5分钟啦！记得领～必中1.1元 超红加码直达或app搜：【快乐购不停】",
-      "published": "2026-10-29T06:09:44+00:00",
-      "published_ts": 1793254184.0
-    },
-    {
-      "title": "伊可新AD3钙镁锌液体钙1岁以上宝宝儿童补钙 151.05元",
-      "link": "https://new.xianbao.fun/haodan/7335357.html",
-      "price": 151.05,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "淘宝阿里健康大药房伊可新AD3钙镁锌液体钙1岁以上宝宝儿童补钙，88VIP领取全部消费券后，叠加27元红包、礼金及9折券，实付151.05元。凑单：拍选项一下单：",
-      "published": "2026-10-29T06:09:10+00:00",
-      "published_ts": 1793254150.0
-    },
-    {
-      "title": "骆驼户外雨神冲锋衣三防款三合一 226.41元",
-      "link": "https://new.xianbao.fun/weibo/7335351.html",
-      "price": 226.41,
-      "image": null,
-      "category": "服饰鞋包",
-      "source": "线报酷",
-      "summary": "480-60消费券骆驼户外雨神冲锋衣三防款三合一，领礼金骆驼户外拼色雨神冲锋衣男款三合一防风防水外套女三防旅游登山服 ①天猫app搜“快乐购不停”领9.2折运动礼遇券商品页右上角点开三个点，底部过猫猫币-足迹-频道专享抵加购（-7.25）②淘宝app-淘金币会场-足迹，再加购回到天猫app下单，凑后237.73店铺充值购物金，实付【226.41】凑单拍1件热风",
-      "published": "2026-10-29T06:09:03+00:00",
-      "published_ts": 1793254143.0
-    },
-    {
-      "title": "得力A5活页本40张 3.9元",
-      "link": "https://new.xianbao.fun/haodan/7335350.html",
-      "price": 3.9,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "学生党刚需！大品牌品质放心内页可拆卸，皮可以重复用得力•𝐀𝟓活页本𝟒𝟎张💰𝟑.𝟗元券：下单:",
-      "published": "2026-10-29T06:09:00+00:00",
-      "published_ts": 1793254140.0
-    },
-    {
-      "title": "jd搜天天超市 1元",
-      "link": "https://new.xianbao.fun/weibo/7335345.html",
-      "price": 1.0,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "jd搜天天超市，1元",
-      "published": "2026-10-29T06:08:49+00:00",
-      "published_ts": 1793254129.0
-    },
-    {
-      "title": "斐乐猫爪6代鞋 325元",
-      "link": "https://new.xianbao.fun/haodan/7335346.html",
-      "price": 325.0,
-      "image": null,
-      "category": "服饰鞋包",
-      "source": "线报酷",
-      "summary": "——斐乐猫爪6代鞋🚗——❶领消沸券，人人都有非88也有 按提示额度湊❷斐乐猫爪6代鞋运动鞋领🧧➕叠金币💰325‼️❸凑单，一起付后退猫爪6代 到手💰325一双‼️鞋面透气不闷 但不完全怕水脚感也是软乎乎 四季都能穿",
-      "published": "2026-10-29T06:07:57+00:00",
-      "published_ts": 1793254077.0
-    },
-    {
-      "title": "贝亲熊猫牛奶杯PPSU 330ml 拍2件 20元",
-      "link": "https://new.xianbao.fun/haodan/7335335.html",
-      "price": 20.0,
+      "title": "双杯茶百道 16元",
+      "link": "https://new.xianbao.fun/weibo/7335624.html",
+      "price": 16.0,
       "image": null,
       "category": "日用百货",
       "source": "线报酷",
-      "summary": "Bug 贝亲熊猫牛奶杯PPSU330ml叠金币拍20元",
-      "published": "2026-10-29T06:07:25+00:00",
-      "published_ts": 1793254045.0
+      "summary": "❗下午茶时间到 16💰喝 双杯 茶百道 17💰喝 双杯沪上阿姨 20+💰喝 双杯 霸王茶姬 等 1️⃣美团拎今日大额虹包 🔗mp://Q3vM6iVxybHilPf 🔗mp://FYPgYU7z1qdrTxy 2️⃣这里美团搜 （你要喝的奶茶店） 🔗mp://6bJHvw5Czz8hXhy 3️⃣美团app-外卖-天天津贴-下拉翻到对应门店 🔗mp://TLHit0hfvDmUD0a —— 奶茶店",
+      "published": "2026-10-29T06:47:39+00:00",
+      "published_ts": 1793256459.0
     },
     {
-      "title": "鲜京采黄牛原切牛腩净重3斤 99.9元",
-      "link": "https://new.xianbao.fun/weibo/7335341.html",
-      "price": 99.9,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "JD【99.9】鲜京采 黄牛原切牛腩净重3斤，折33.3元/斤 ，包邮活动！",
-      "published": "2026-10-29T06:07:22+00:00",
-      "published_ts": 1793254042.0
-    },
-    {
-      "title": "宝宝好A2婴儿推车可坐可躺轻便出游手推车 250元",
-      "link": "https://new.xianbao.fun/haodan/7335336.html",
-      "price": 250.0,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "拼多多宝宝好A2婴儿推车可坐可躺轻便出游手推车，仅卷后实付250元起。下单：",
-      "published": "2026-10-29T06:07:10+00:00",
-      "published_ts": 1793254030.0
-    },
-    {
-      "title": "骆驼显脸小羊毛防风针织帽 51.47元",
-      "link": "https://new.xianbao.fun/haodan/7335343.html",
-      "price": 51.47,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "双11开门红：骆驼显脸小羊毛防风针织帽福利价仅51.47元秒杀！下单:骆驼防风针织帽，以高弹针织与立体帽檐，贴肤不扎，守护寸寸温暖",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
-    },
-    {
-      "title": "骆驼户外亮椅露营折叠椅加高椅背 90.8元",
-      "link": "https://new.xianbao.fun/haodan/7335342.html",
-      "price": 90.8,
-      "image": null,
-      "category": "运动户外",
-      "source": "线报酷",
-      "summary": "双11开门红：骆驼夹棉躺椅脚托可折叠户外露营福利价仅121.2元秒杀！下单:【领品牌超u礼金到手90.8】，骆驼户外亮椅露营折叠椅，加高椅背，坐感舒适，贴合身体曲线",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
-    },
-    {
-      "title": "骆驼进阶三防冲锋衣男女新款三合一外套 357.61元",
-      "link": "https://new.xianbao.fun/haodan/7335339.html",
-      "price": 357.61,
+      "title": "伯希和三合一保暖冲锋衣 319.20元",
+      "link": "https://new.xianbao.fun/weibo/7335620.html",
+      "price": 319.2,
       "image": null,
       "category": "服饰鞋包",
       "source": "线报酷",
-      "summary": "双11开门红：骆驼进阶三防冲锋衣男女新款三合一外套福利价仅437.6元秒杀！下单:【领取品牌超u礼金到手357.61】骆驼进阶三防冲锋衣，三防科技面料，内置280g抓绒内胆，三合一可拆卸，可应变不同温度",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
+      "summary": "TB【凑单319.20】伯希和.三合一保暖冲锋衣，男女多款可选，用31.84元淘金币，凑88会员480-60消费券> 宝贝右上角 ··· 点开➠ 右下角“淘金币” ➠ 进入后点“足迹加抵”➠“浏览过”中找到宝贝加购物车①拍1件，伯希和②拍1件，凑单可退",
+      "published": "2026-10-29T06:47:13+00:00",
+      "published_ts": 1793256433.0
     },
     {
-      "title": "骆驼户外轻便休闲登山包 54.16元",
-      "link": "https://new.xianbao.fun/haodan/7335338.html",
-      "price": 54.16,
+      "title": "老管家除湿盒230g*9盒干燥剂防潮湿室内回南天衣柜宿舍吸湿器非袋 6.19元",
+      "link": "https://new.xianbao.fun/weibo/7335617.html",
+      "price": 6.19,
+      "image": null,
+      "category": "食品生鲜",
+      "source": "线报酷",
+      "summary": "猫超 杨先生 手工麻花370g红糖选项，领礼金杨先生麻花肉松红糖麻花杭州特产义乌网红小吃特色办公室馋嘴零食 超市首页搜索“零食”，部分有3品类金直播间：饭饭小仙女，领9折券，加购商品从链接进入淘金币会场-足迹，再加购商品凑50-6加补券，拍1件vip11.16返2赠金如返3猫超红包到手【6.19】（提交订单抵扣品类金）凑单拍1件老管家除湿盒230g*9盒干燥剂防潮湿室内回南天衣柜宿舍吸湿器非袋",
+      "published": "2026-10-29T06:46:50+00:00",
+      "published_ts": 1793256410.0
+    },
+    {
+      "title": "茅台紫迎宾酒53°酱香型白酒500ml 135元",
+      "link": "https://new.xianbao.fun/weibo/7335590.html",
+      "price": 135.0,
+      "image": null,
+      "category": "酒水",
+      "source": "线报酷",
+      "summary": "JD【135.00】茅台.紫迎宾酒53°酱香型白酒500ml，需要浏览商品时有掉落5元限时红包，叠加页面5元首购金",
+      "published": "2026-10-29T06:43:45+00:00",
+      "published_ts": 1793256225.0
+    },
+    {
+      "title": "科丽尼下架了 来晚忽略",
+      "link": "https://new.xianbao.fun/weibo/7335589.html",
+      "price": null,
+      "image": null,
+      "category": "其他",
+      "source": "线报酷",
+      "summary": "科丽尼下架了 来晚忽略",
+      "published": "2026-10-29T06:43:22+00:00",
+      "published_ts": 1793256202.0
+    },
+    {
+      "title": "骆驼盘山路越野户外运动跑鞋 126.91元",
+      "link": "https://new.xianbao.fun/weibo/7335585.html",
+      "price": 126.91,
       "image": null,
       "category": "运动户外",
       "source": "线报酷",
-      "summary": "双11开门红：骆驼户外轻便休闲登山包福利价仅54.16元秒杀！下单:背包轻便又时尚，特别适合我们这种爱户外的女生。骑行、徒步、登山都超百搭！容量超大，手机、水壶、零食统统都能装下。",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
+      "summary": "TB【凑单价126.91】骆驼.盘山路越野户外运动跑鞋，需叠加35.82淘礼金，凑88会员200-25消费券后的价> 宝贝右上角 ··· 点开➠ 右下角“淘金币” ➠ 进入后点“足迹加抵”➠“浏览过”中找到鞋子加购①拍1件，鞋子②拍1件，凑后可退",
+      "published": "2026-10-29T06:42:46+00:00",
+      "published_ts": 1793256166.0
     },
     {
-      "title": "骆驼户外便携式折叠六角帐篷 204.8元",
-      "link": "https://new.xianbao.fun/haodan/7335337.html",
-      "price": 204.8,
+      "title": "凑单936 北面 软壳三合一冲锋衣 领200元礼金 在商品右上角点击 .",
+      "link": "https://new.xianbao.fun/weibo/7335586.html",
+      "price": 200.0,
       "image": null,
-      "category": "运动户外",
+      "category": "服饰鞋包",
       "source": "线报酷",
-      "summary": "双11开门红：骆驼户外便携式折叠六角帐篷福利价仅204.8元秒杀！下单链接：骆驼六角帐篷户外便携式折叠，升级银胶2.0，隔热降温，亲子露营陪孩子玩不停",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
+      "summary": "【凑单936】北面 软壳三合一冲锋衣领200元礼金，在商品右上角点击“...”，点击右下角“淘金币”，抵扣105r（金币不够可临时借）下拉详情页领2500-500店铺券，叠加88会员1500-180消费券，凑单拍下才是这个价！",
+      "published": "2026-10-29T06:42:37+00:00",
+      "published_ts": 1793256157.0
     },
     {
-      "title": "自由点卫生巾拍8件赠安睡裤+日用共10件 26元",
-      "link": "https://new.xianbao.fun/haodan/7335334.html",
-      "price": 26.0,
+      "title": "斯凯奇中性梭织短款连帽羽绒服 230.94元",
+      "link": "https://new.xianbao.fun/weibo/7335583.html",
+      "price": 230.94,
+      "image": null,
+      "category": "服饰鞋包",
+      "source": "线报酷",
+      "summary": "TB【凑单230.94】斯凯奇.中性梭织短款连帽羽绒服，用78.1元淘金币，凑88会员480-60消费券> 宝贝右上角 ··· 点开➠ 右下角“淘金币” ➠ 进入后点“足迹加抵”➠“浏览过”中找到宝贝加购物车①拍1件，斯凯奇②拍1件，凑单可退",
+      "published": "2026-10-29T06:42:26+00:00",
+      "published_ts": 1793256146.0
+    },
+    {
+      "title": "洗发水 1.9元",
+      "link": "https://new.xianbao.fun/weibo/7335577.html",
+      "price": 1.9,
       "image": null,
       "category": "美妆个护",
       "source": "线报酷",
-      "summary": "𝟐.𝟔/包‼️自由点卫生巾🈴集叠唫币+消费任拍𝟖件💰𝟐𝟔贈安睡裤+日用共🉐𝟏𝟎件✔️下单:",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
+      "summary": "領快消10🧧 40￥TE5XTBFyh8O￥// CA1371 - 洗发水抇下💰1.9，手慢无 60￥0FcBTBFBkmz￥// CZ6135",
+      "published": "2026-10-29T06:41:34+00:00",
+      "published_ts": 1793256094.0
     },
     {
-      "title": "骆驼全户外便携自动六角帐篷 210.1元",
-      "link": "https://new.xianbao.fun/haodan/7335333.html",
-      "price": 210.1,
-      "image": null,
-      "category": "运动户外",
-      "source": "线报酷",
-      "summary": "双11开门红：骆驼全自动便携式折叠六角帐篷户福利价仅264.3元秒杀！下单:【叠加品牌超u礼金下单210.1元起】骆驼全户外便携自动六角帐篷，防晒黑胶，全景落地网纱，通风透气，一提一拉1秒速开支架，可抗风6级，露营必备神器",
-      "published": "2026-10-29T06:07:00+00:00",
-      "published_ts": 1793254020.0
-    },
-    {
-      "title": "只要点开评论 必中1.1元",
-      "link": "https://new.xianbao.fun/weibo/7335329.html",
-      "price": 1.1,
+      "title": "科丽尼 2.9元",
+      "link": "https://new.xianbao.fun/weibo/7335576.html",
+      "price": 2.9,
       "image": null,
       "category": "其他",
       "source": "线报酷",
-      "summary": "只要点开评论，必中1.1元🧧",
-      "published": "2026-10-29T06:06:54+00:00",
-      "published_ts": 1793254014.0
+      "summary": "楼上️科丽尼现在是2.9 可叠加超红到手更低",
+      "published": "2026-10-29T06:41:30+00:00",
+      "published_ts": 1793256090.0
     },
     {
-      "title": "截止15分 有1.1",
-      "link": "https://new.xianbao.fun/weibo/7335326.html",
+      "title": "方里 定妆小白饼7g 80-85左右 领消费卷 右上角 . 叠桃琻币加車",
+      "link": "https://new.xianbao.fun/weibo/7335578.html",
       "price": null,
       "image": null,
       "category": "其他",
       "source": "线报酷",
-      "summary": "截止15分，有1.1",
-      "published": "2026-10-29T06:06:31+00:00",
-      "published_ts": 1793253991.0
+      "summary": "方里 定妆小白饼7g， 80-85左右①领消费卷：②右上角【...】叠桃琻币加車🛒：③湊單可退，按底部提示根据自己消费卷额度凑（图一）",
+      "published": "2026-10-29T06:41:19+00:00",
+      "published_ts": 1793256079.0
     },
     {
-      "title": "凡士林婴儿晶冻滋润乳护臀拍100g*2瓶 24.9元",
-      "link": "https://new.xianbao.fun/haodan/7335324.html",
-      "price": 24.9,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "拍100g*2瓶选项24.9元凡士林 婴儿晶冻滋润乳护臀",
-      "published": "2026-10-29T06:06:27+00:00",
-      "published_ts": 1793253987.0
-    },
-    {
-      "title": "骆驼瑜伽服女套装云感修身秋两件套 83.4元",
-      "link": "https://new.xianbao.fun/haodan/7335332.html",
-      "price": 83.4,
-      "image": null,
-      "category": "运动户外",
-      "source": "线报酷",
-      "summary": "双11开门红：骆驼瑜伽服女套装云感修身秋两件套福利价仅83.4元秒杀！下单:骆驼瑜伽服情暖长袖，修身显瘦裁剪，添加弹力纤维运动自如，透气排闷，紧致收束",
-      "published": "2026-10-29T06:06:00+00:00",
-      "published_ts": 1793253960.0
-    },
-    {
-      "title": "骆驼户外跑步手臂收纳袋 32.48元",
-      "link": "https://new.xianbao.fun/haodan/7335328.html",
-      "price": 32.48,
-      "image": null,
-      "category": "运动户外",
-      "source": "线报酷",
-      "summary": "双11开门红：骆驼跑步手机臂包男女手机袋手臂收纳袋福利价仅32.48元秒杀！下单:骆驼户外跑步手臂收纳袋狂甩不掉，色彩缤纷，多种选择。拒水防泼，点滴不沾",
-      "published": "2026-10-29T06:06:00+00:00",
-      "published_ts": 1793253960.0
-    },
-    {
-      "title": "Camel骆驼户外男女同款三合一冲锋衣 439.25元",
-      "link": "https://new.xianbao.fun/haodan/7335327.html",
-      "price": 439.25,
-      "image": null,
-      "category": "服饰鞋包",
-      "source": "线报酷",
-      "summary": "双11开门红：Camel骆驼户外男女同款三合一冲锋衣福利价仅439.25元秒杀！下单:骆驼户外三合一冲锋衣，防风雨防油污保暖，采用科技抗静电处理，保暖更舒适",
-      "published": "2026-10-29T06:06:00+00:00",
-      "published_ts": 1793253960.0
-    },
-    {
-      "title": "恢复 京东 洁柔 手帕纸Face粉迷你4层7片*24包 1",
-      "link": "https://new.xianbao.fun/weibo/7335314.html",
+      "title": "科丽尼拿礼金丐友不拍 新 科丽尼青蒿头皮素舒缓洗发水修护清洁 从这里拍下0 新",
+      "link": "https://new.xianbao.fun/weibo/7335567.html",
       "price": null,
-      "image": null,
-      "category": "日用百货",
-      "source": "线报酷",
-      "summary": "恢复 京东洁柔 手帕纸Face粉迷你4层7片*24包，1",
-      "published": "2026-10-29T06:05:53+00:00",
-      "published_ts": 1793253953.0
-    },
-    {
-      "title": "好人家牛油火锅底料400g 9.63元",
-      "link": "https://new.xianbao.fun/weibo/7335313.html",
-      "price": 9.63,
-      "image": null,
-      "category": "日用百货",
-      "source": "线报酷",
-      "summary": "JD【凑单价9.63】好人家.牛油火锅底料400g，plus会员专享价> 领10-5券①拍1件，火锅底料②拍1件，凑后可退",
-      "published": "2026-10-29T06:05:31+00:00",
-      "published_ts": 1793253931.0
-    },
-    {
-      "title": "瑷尔博士保湿修护面膜27片 43元",
-      "link": "https://new.xianbao.fun/haodan/7335325.html",
-      "price": 43.0,
       "image": null,
       "category": "美妆个护",
       "source": "线报酷",
-      "summary": "用200-20美妆加补券43元 折1.5元/片‼1，下拉详情，下1件瑷尔博士保湿修护面膜27片，凑1件、凑1件，用消费券",
-      "published": "2026-10-29T06:04:58+00:00",
-      "published_ts": 1793253898.0
+      "summary": "科丽尼拿礼金丐友不拍 【新】科丽尼青蒿头皮素舒缓洗发水修护清洁 从这里拍下💰0!!! 【新】科丽尼青蒿头皮素舒缓洗发水修护清洁",
+      "published": "2026-10-29T06:40:58+00:00",
+      "published_ts": 1793256058.0
     },
     {
-      "title": "脸白有6.6 淘宝app搜 快乐购不停",
-      "link": "https://new.xianbao.fun/weibo/7335301.html",
+      "title": "tb领10",
+      "link": "https://new.xianbao.fun/weibo/7335559.html",
       "price": null,
       "image": null,
       "category": "其他",
       "source": "线报酷",
-      "summary": "脸白有6.6淘宝app搜：快乐购不停",
-      "published": "2026-10-29T06:03:24+00:00",
-      "published_ts": 1793253804.0
+      "summary": "10￥LvfhTBFEizs￥/:/ CA1371丐友tb领10",
+      "published": "2026-10-29T06:39:59+00:00",
+      "published_ts": 1793255999.0
     },
     {
-      "title": "部分号有6.6 截止15分 淘宝必中1.1 欧洲人6.6 淘宝app搜",
-      "link": "https://new.xianbao.fun/weibo/7335296.html",
+      "title": "下午茶 淘宝闪购外卖三叠加 领了千问 记得这样子三叠加",
+      "link": "https://new.xianbao.fun/weibo/7335556.html",
       "price": null,
       "image": null,
-      "category": "其他",
+      "category": "食品生鲜",
       "source": "线报酷",
-      "summary": "部分号有6.6 截止15分 淘宝必中1.1，欧洲人6.6淘宝app搜“快乐购不停”直达",
-      "published": "2026-10-29T06:02:54+00:00",
-      "published_ts": 1793253774.0
+      "summary": "🍵下午茶 淘宝闪购外卖三叠加 — 领了千问，记得这样子三叠加 闪购🧧商家券➕千问吱附抵扣 — 1️⃣淘宝-闪购搜：快乐购不停 (v8kKTxzuSW4)/ HU7405 （丐友或复制去淘宝打开） 领每日荭包 下拉可领商家券 — 2️⃣横幅领千问立减🧧荭包 跳千问每天首单再减1.8-8.8 — 3️⃣松阳县饿了么1.5叠加卷 部分地区有6-5 现在只有三四线部分城市可用 复制到VX打开 ①左上角小房",
+      "published": "2026-10-29T06:39:30+00:00",
+      "published_ts": 1793255970.0
     },
     {
-      "title": "益倍适速溶益生菌5袋*2盒拍2件 39.7元",
-      "link": "https://new.xianbao.fun/weibo/7335298.html",
-      "price": 39.7,
-      "image": null,
-      "category": "其他",
-      "source": "线报酷",
-      "summary": "TB【拍2件39.7】益倍适 速溶益生菌5袋*2盒到手4盒20袋，折1.9/袋，适合3岁以上小朋友[点赞]",
-      "published": "2026-10-29T06:02:53+00:00",
-      "published_ts": 1793253773.0
-    },
-    {
-      "title": "来领个1.1 2点15结束",
-      "link": "https://new.xianbao.fun/weibo/7335331.html",
+      "title": "菌菌这次选购绿心猕猴桃太绝 均果110g-130g 个头大 果肉细腻无渣",
+      "link": "https://new.xianbao.fun/weibo/7335557.html",
       "price": null,
       "image": null,
-      "category": "其他",
+      "category": "食品生鲜",
       "source": "线报酷",
-      "summary": "来领个1.1~2点15结束",
-      "published": "2026-10-29T06:00:34+00:00",
-      "published_ts": 1793253634.0
+      "summary": "#菌菌实拍日记# 菌菌这次选购绿心猕猴桃太绝，均果110g-130g，个头大果肉细腻无渣，清甜多汁，秋季补充维C满满。收到一定放几天熟食用哦！",
+      "published": "2026-10-29T06:39:13+00:00",
+      "published_ts": 1793255953.0
     },
     {
-      "title": "纽曼 降噪 USB桌面话筒 107.1元",
-      "link": "https://www.smzdm.com/p/184934733/",
-      "price": 107.1,
-      "image": "https://y.zdmimg.com/202610/28/6ae1c54d908174740.jpg_a200.jpg",
+      "title": "京鲜生山东烟薯25号蜜薯净重4.5斤 10.9元",
+      "link": "https://new.xianbao.fun/weibo/7335551.html",
+      "price": 10.9,
+      "image": null,
       "category": "其他",
+      "source": "线报酷",
+      "summary": "JD【10.90】京鲜生.山东烟薯25号蜜薯净重4.5斤，折2.42元/斤，非plus会员也包邮",
+      "published": "2026-10-29T06:38:10+00:00",
+      "published_ts": 1793255890.0
+    },
+    {
+      "title": "凑单1997 北面 鹅绒服女 领200元礼金 在商品右上角点击 . 点击右下角",
+      "link": "https://new.xianbao.fun/weibo/7335552.html",
+      "price": 200.0,
+      "image": null,
+      "category": "其他",
+      "source": "线报酷",
+      "summary": "【凑单1997】北面 鹅绒服女领200元礼金，在商品右上角点击“...”，点击右下角“淘金币”，抵扣20.98r叠加88会员3000-400消费券，凑单拍下才是这个价！",
+      "published": "2026-10-29T06:38:09+00:00",
+      "published_ts": 1793255889.0
+    },
+    {
+      "title": "可丽金胶卷洁面100g*2支 +100g（20g*3） 58.8元",
+      "link": "https://new.xianbao.fun/weibo/7335547.html",
+      "price": 58.8,
+      "image": null,
+      "category": "美妆个护",
+      "source": "线报酷",
+      "summary": "58.8 官旗可丽金胶卷洁面100g*2支 +100g（20g*3）①弹限量6.6礼金②浏览弹随机限时红包（图上16，非必弹，收藏进店多浏览）老客13回购礼金（新客自测）③进店首页直播间-右上“领权益”-领1000-150券④淘金币足迹加购-金币抵扣22.5⑤凑1000-125消费券（用480-60膨胀）和1000-140美妆券微博正文 凑单（退）第1个选项1件可丽金重组胶原蛋白健肤高保湿面膜 件",
+      "published": "2026-10-29T06:37:42+00:00",
+      "published_ts": 1793255862.0
+    },
+    {
+      "title": "FILA斐乐杨幂同款蕨草2老爹鞋女鞋复古休闲鞋厚底运动鞋 357元",
+      "link": "https://new.xianbao.fun/weibo/7335546.html",
+      "price": 357.0,
+      "image": null,
+      "category": "服饰鞋包",
+      "source": "线报酷",
+      "summary": "斐乐蕨草2，💰357-3801）领礼金进店概率掉落24-30包 2）按购物车提示凑消费卷我凑的1500-180 【杨幂同款】蕨草2丨FILA斐乐老爹鞋女鞋复古休闲鞋厚底运动鞋",
+      "published": "2026-10-29T06:37:16+00:00",
+      "published_ts": 1793255836.0
+    },
+    {
+      "title": "图拉斯 适用苹果18promax镜头膜iPhone18Pro摄像头钢化保护贴 98元",
+      "link": "https://www.smzdm.com/p/184961822/",
+      "price": 98.0,
+      "image": "https://y.zdmimg.com/202610/29/6ae29262fe1884509.png_a200.jpg",
+      "category": "数码",
       "source": "什么值得买·好价",
-      "summary": "小值机器人京东该商品参加1件9折、满100减10元优惠券（需在移动端详情页内领取）的促销活动，当前到手价107.10元，降价前售价为116.10元，本次降幅8%，低于上次爆料价129.00元。喜欢的值友们不要错过~",
+      "summary": "居家小王仔",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "第六感 肤感仿生皮 玻尿酸安全套 12只装/盒 35元",
-      "link": "https://www.smzdm.com/p/184983606/",
-      "price": 35.0,
-      "image": "https://y.zdmimg.com/202610/13/6acdd16ce44fa3682.jpg_a200.jpg",
-      "category": "美妆个护",
+      "title": "HOKA 挑战者8 GTX 徒步登山鞋 514.26元（需用券）",
+      "link": "https://www.smzdm.com/p/184973368/",
+      "price": 514.26,
+      "image": "https://y.zdmimg.com/202601/15/696864db555978794.jpg_a200.jpg",
+      "category": "运动户外",
       "source": "什么值得买·好价",
-      "summary": "香蕉君第六感专研肤感膜，华熙生物专利三重玻尿酸分子复配。京东此款现售68元，下单1件领取33元优惠券，到手价低至35元。温馨告示：1.本商品为成人用品，未成年人（18岁以下）请勿浏览购买，2.为确保用户隐私受到保护，本商品采取了严密包装和保密发货措施。",
+      "summary": "运动爆料看我就对了",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "车载香薰 全季禅茶 300ml 5.9元",
-      "link": "https://www.smzdm.com/p/184976005/",
-      "price": 5.9,
-      "image": "https://y.zdmimg.com/202610/26/6adee44a3add35048.jpg_a200.jpg",
-      "category": "日用百货",
+      "title": "PLUS会员：喵洁客 膨润土猫砂 42磅 99元",
+      "link": "https://www.smzdm.com/p/184977656/",
+      "price": 99.0,
+      "image": "https://y.zdmimg.com/202510/28/68ffbe71d02b97615.png_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "郁仙仙",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "Rab Ascendor Light 男款抓绒衣 QFG-58 699元",
+      "link": "https://www.smzdm.com/p/184960083/",
+      "price": 699.0,
+      "image": "https://y.zdmimg.com/202511/20/691ea588d5e726648.jpg_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "闯大",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "倍思 2026新国标3c认证卡片磁吸Air充电宝5000mAh超薄低温快充移动电源可上飞机 374元",
+      "link": "https://www.smzdm.com/p/184916002/",
+      "price": 374.0,
+      "image": "https://y.zdmimg.com/202610/24/6adc9f67835c63896.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·好价",
+      "summary": "他有多块爱上",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "88VIP：骆驼 防水防滑登山鞋 108元（需用券）",
+      "link": "https://www.smzdm.com/p/184967335/",
+      "price": 108.0,
+      "image": "https://qny.smzdm.com/202406/27/667d381401bab2704.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·好价",
+      "summary": "sjdjdjd",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "73hours 巴黎左岸 女款尖头高跟时装靴 1431.28元返150积分后",
+      "link": "https://www.smzdm.com/p/184987432/",
+      "price": 1431.28,
+      "image": "https://y.zdmimg.com/202610/29/6ae2ec341d60e3567.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·好价",
+      "summary": "时尚种草姬返150值得买积分，补贴后低至1431.28元",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "PLUS会员：美玏 八角桂皮香叶花椒辣椒白芷 6罐 调味品套装 12.72元返10积分后",
+      "link": "https://www.smzdm.com/p/184710365/",
+      "price": 12.72,
+      "image": "https://y.zdmimg.com/202606/22/6a394b28f2f632533.png_a200.jpg",
+      "category": "食品生鲜",
+      "source": "什么值得买·好价",
+      "summary": "大牛神推荐返10值得买积分，补贴后低至12.72元",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "光威 轻硬碳素钓鱼竿 70.5元",
+      "link": "https://www.smzdm.com/p/184966846/",
+      "price": 70.5,
+      "image": "https://y.zdmimg.com/202402/02/65bc68ad119533244.jpg_a200.jpg",
+      "category": "运动户外",
+      "source": "什么值得买·好价",
+      "summary": "你猜我是老几",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "萨洛蒙 X ULTRA PIONEER 2 GTX 登山徒步鞋 708.24元（需用券）",
+      "link": "https://www.smzdm.com/p/184950710/",
+      "price": 708.24,
+      "image": "https://y.zdmimg.com/202602/25/699ede636de8a4573.jpg_a200.jpg",
+      "category": "运动户外",
+      "source": "什么值得买·好价",
+      "summary": "118号李师傅",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "品胜 尼康EN-EL15C相机电池快充卡盒充电仓充电器 适用Z5/Z6/Z7/Z8/Z62/z63/ 129.33元（需用券）",
+      "link": "https://www.smzdm.com/p/184971874/",
+      "price": 129.33,
+      "image": "https://y.zdmimg.com/202610/29/6ae2b0266413a5211.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·好价",
+      "summary": "蓝蛇",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "京东 惊喜大转盘 抽至高888京豆 实测899（888+10+1）京豆",
+      "link": "https://www.smzdm.com/p/184956988/",
+      "price": null,
+      "image": "https://y.zdmimg.com/202610/29/6ae2ebf39c6fe9587.png_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "豆上加豆",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "喵洁客 活性炭 猫砂  喵洁客猫砂黑标-42磅 96.5元返50积分后",
+      "link": "https://www.smzdm.com/p/184977682/",
+      "price": 96.5,
+      "image": "https://y.zdmimg.com/202610/29/6ae2ec43965481543.jpg_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "郁仙仙返50值得买积分，补贴后低至193.00元，折96.50元/件",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "迪卡侬 ODAB 折叠收纳双肩包 10L 28.76元",
+      "link": "https://www.smzdm.com/p/184965631/",
+      "price": 28.76,
+      "image": "https://y.zdmimg.com/202610/29/6ae29ad30a0461903.jpg_a200.jpg",
+      "category": "服饰鞋包",
+      "source": "什么值得买·好价",
+      "summary": "春光明媚的灯草",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "今日必买：恒洁 HC0507PT 家用轻智款马桶 离座自动冲水 500.4元",
+      "link": "https://www.smzdm.com/p/184568745/",
+      "price": 500.4,
+      "image": "https://y.zdmimg.com/202610/23/6adaf02328bf62807.jpg_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "Amanda_Y10月29日更新：叠加消费券600-75元（480-60元膨胀）+政府补贴15%，收货晒图返30元，到手500.4元。",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "努比亚 30W快充 10000mAh 插头线 移动电源 黄色 151.92元",
+      "link": "https://www.smzdm.com/p/184940952/",
+      "price": 151.92,
+      "image": "https://y.zdmimg.com/202507/09/686e3fc2c73598957.jpg_a200.jpg",
+      "category": "数码",
+      "source": "什么值得买·好价",
+      "summary": "银子银子",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "安踏 训练篮球 5号 24.95元",
+      "link": "https://www.smzdm.com/p/184951365/",
+      "price": 24.95,
+      "image": "https://y.zdmimg.com/202601/06/695c4d46f37745913.jpg_a200.jpg",
+      "category": "运动户外",
+      "source": "什么值得买·好价",
+      "summary": "小白姐姐姐",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "C 【裸机手感】官方真液态硅胶 iPhone11-18系列苹果手机壳 9.9元（需用券）",
+      "link": "https://www.smzdm.com/p/184986713/",
+      "price": 9.9,
+      "image": "https://y.zdmimg.com/202610/03/6ac0a8cd04d7f9655.jpg_a200.jpg",
+      "category": "数码",
       "source": "什么值得买·好价",
       "summary": "",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "海尔 云溪4.0plus系列 XQG110-BLE78E 直驱变频滚筒洗衣机 11kg 2168.78元（需用券）",
-      "link": "https://www.smzdm.com/p/184969237/",
-      "price": 168.78,
-      "image": "https://y.zdmimg.com/202510/14/68ede5f156e759624.jpg_a200.jpg",
-      "category": "家用电器",
+      "title": "京东京造 风盾500 男款软壳裤 123.75元（需用券）",
+      "link": "https://www.smzdm.com/p/184976811/",
+      "price": 123.75,
+      "image": "https://y.zdmimg.com/202610/29/6ae2bc90d2adc9772.jpg_a200.jpg",
+      "category": "服饰鞋包",
       "source": "什么值得买·好价",
-      "summary": "有亿点冰糕",
+      "summary": "东京高考状元",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "老四川 多口味牛肉干牛肉粒 中华 重庆特产 休闲零食 五香牛肉干20g 4.99元",
-      "link": "https://www.smzdm.com/p/184864064/",
-      "price": 4.99,
-      "image": "https://y.zdmimg.com/202507/22/687f42451a0045240.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "多少也是肉啊",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "安克 x黑神话联名三合一能量棒10000毫安30W移动电源 任逍遥充电宝 188元",
-      "link": "https://www.smzdm.com/p/184937771/",
-      "price": 188.0,
-      "image": "https://y.zdmimg.com/202509/17/68ca7b67da1b67037.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·好价",
-      "summary": "今天吃饱了吗x",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "老四川 巴蜀麻辣牛肉干250g 25.09元（需买3件，需用券）",
-      "link": "https://www.smzdm.com/p/184517506/",
-      "price": 25.09,
-      "image": "https://y.zdmimg.com/202410/23/67186ddbf33488799.png_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "莫利亚的好物分享",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "哈曼卡顿 SoundSticks4 水晶4 桌面 蓝牙音箱 墨金 典藏版 1428元（需用券）",
-      "link": "https://www.smzdm.com/p/184923886/",
-      "price": 428.0,
-      "image": "https://y.zdmimg.com/202405/22/664d6cce27f3a7840.png_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·好价",
-      "summary": "著名有钱妞",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "科尔沁 风干牛肉干 原味 500g 64元（需用券）",
-      "link": "https://www.smzdm.com/p/184866372/",
-      "price": 64.0,
-      "image": "https://y.zdmimg.com/202610/27/6ae06bd30d5a377.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "无用无为",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "88VIP：萨啦咪 蜜汁味小鸡腿 鸡鸭零食120g 6.21元（需用券）",
-      "link": "https://www.smzdm.com/p/184844494/",
-      "price": 6.21,
-      "image": "https://y.zdmimg.com/202607/30/6a6af980e77e95614.png_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "信小兔",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "百亿补贴：魅族 Pandaer 磁吸抗菌 iPhone17系列手机壳 77元",
-      "link": "https://www.smzdm.com/p/184916964/",
-      "price": 77.0,
-      "image": "https://y.zdmimg.com/202609/18/6aac1028e77d15660.jpg_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·好价",
-      "summary": "依阿佳",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "坚果进化论 A180紫衣腰果400g恰恰酥脆盐焗味大颗粒带皮原香干果坚果零食新货 31.9元",
-      "link": "https://www.smzdm.com/p/184365977/",
-      "price": 31.9,
-      "image": "https://y.zdmimg.com/202610/20/6ad765752f7e47535.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "睁开眼看世界",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "QCY C50i 重磅新品耳夹耳机 120.69元（需用券）",
-      "link": "https://www.smzdm.com/p/184979369/",
-      "price": 120.69,
-      "image": "https://y.zdmimg.com/202610/29/6ae2c757a06c04930.png_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·好价",
-      "summary": "小值机器人京东该商品参加1件9折、满1元8.5折优惠券的促销活动，当前到手价120.69元，降价前售价为126.65元，本次降幅5%，与上次爆料价相等。喜欢的值友们不要错过~",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "88VIP：Tafe 可可酱蘸蘸乐巧克力杯32*10杯 8.11元（需用券）",
-      "link": "https://www.smzdm.com/p/184797679/",
-      "price": 8.11,
-      "image": "https://y.zdmimg.com/202610/26/6adf38cc08b018661.jpg_a200.jpg",
-      "category": "日用百货",
-      "source": "什么值得买·好价",
-      "summary": "千澈",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "好丽友 呀！土豆 薯条 番茄酱味 超值装 130g 5.57元（需买6件，需用券）",
-      "link": "https://www.smzdm.com/p/184938081/",
-      "price": 5.57,
-      "image": "https://qny.smzdm.com/202103/02/603d9f486038d8380.jpg_a200.jpg",
+      "title": "今日必买、88VIP：恒洁 HC0516PT 强劲瞬冲一级节水马桶 378.47元（需用券）",
+      "link": "https://www.smzdm.com/p/184774009/",
+      "price": 378.47,
+      "image": "https://y.zdmimg.com/202610/26/6adee82c24f632941.jpg_a200.jpg",
       "category": "其他",
       "source": "什么值得买·好价",
-      "summary": "芜攸",
+      "summary": "Amanda_Y10月29日更新：收货晒图+追评返30元，到手378.47元。还可抵扣淘金币。",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "安克 安心充Smart+45W屏显充电器 129.22元（需用券）",
-      "link": "https://www.smzdm.com/p/184913516/",
-      "price": 129.22,
-      "image": "https://y.zdmimg.com/202610/27/6ae043fc680055599.png_a200.jpg",
+      "title": "苹果iphone17promax手机壳超薄 真凯夫拉磁吸保护套 磁吸款金属圈 177元（需用券）",
+      "link": "https://www.smzdm.com/p/184984970/",
+      "price": 177.0,
+      "image": "https://y.zdmimg.com/202610/29/6ae2e51c887339675.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·好价",
-      "summary": "羊毛党专业户",
+      "summary": "萱萱的",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "HECATE G5Max无线版 耳罩式头戴式动圈蓝牙耳机 宇宙灰 Type-C 410.74元",
-      "link": "https://www.smzdm.com/p/184946848/",
-      "price": 410.74,
-      "image": "https://y.zdmimg.com/202601/29/697b7874c95197713.png_a200.jpg",
-      "category": "数码",
+      "title": "邦德富士达 折叠自行车 7速 E700 759元（需用券）",
+      "link": "https://www.smzdm.com/p/184951696/",
+      "price": 759.0,
+      "image": "https://y.zdmimg.com/202610/29/6ae22ca668fa13856.jpg_a200.jpg",
+      "category": "运动户外",
       "source": "什么值得买·好价",
-      "summary": "牛奶咖啡不加糖",
+      "summary": "摇摇零",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "淘金币可用、今日必买、88VIP：康师傅 3+2 苏打夹心饼干 奶油味/柠檬味650g 17.18元淘金币到手12.42元",
-      "link": "https://www.smzdm.com/p/184869834/",
-      "price": 17.18,
-      "image": "https://y.zdmimg.com/202507/24/68819bb5721fb9536.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "Mayleafs",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "沃隆 坚果紫衣腰果210g*2罐 29.9元（需用券）",
-      "link": "https://www.smzdm.com/p/184928560/",
-      "price": 29.9,
-      "image": "https://y.zdmimg.com/202610/23/6adad3170ceed2299.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "爆料值选彭于晏",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "楼兰蜜语 京觅甄选新疆薄皮核桃2.5kg/箱原味纸皮送礼礼盒坚果特产零食 59.9元",
-      "link": "https://www.smzdm.com/p/184770561/",
-      "price": 59.9,
-      "image": "https://y.zdmimg.com/202512/08/6936536515edb3344.png_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "巴豆奶昔",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "移动端：宾得宝 全家福8口味 气泡水套装 54元（淘金币可抵2.28元起）",
-      "link": "https://www.smzdm.com/p/184869393/",
-      "price": 54.0,
-      "image": "https://y.zdmimg.com/202610/27/6ae0766251c2d8250.jpg_a200.jpg",
+      "title": "PLUS会员：喵洁客 膨润土猫砂 42磅 140元返80积分后",
+      "link": "https://www.smzdm.com/p/184977703/",
+      "price": 140.0,
+      "image": "https://y.zdmimg.com/202311/01/6541e31f0422d5126.jpg_a200.jpg",
       "category": "其他",
       "source": "什么值得买·好价",
-      "summary": "小值机器人该价格商品规格：商品规格：【375ml*4瓶】甜蜜在恋天猫商城该商品正在促销，领取满50减3元优惠券，最终到手价54元/件，喜欢可入。使用淘金币再省2.28元起，根据账号情况可能抵更多，建议亲测。",
+      "summary": "郁仙仙返80值得买积分，补贴后低至280.00元，折140.00元/件",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "倍思 PPCXM10 迷你款 移动电源 苹果白 10000mAh Type-C 20W 88元",
-      "link": "https://www.smzdm.com/p/184888540/",
-      "price": 88.0,
-      "image": "https://y.zdmimg.com/202510/09/68e733c99f53a6030.jpg_a200.jpg",
+      "title": "C 【裸机手感】官方Beats二合一 iPhone11-18系列苹果手机壳 9.9元（需用券）",
+      "link": "https://www.smzdm.com/p/184986200/",
+      "price": 9.9,
+      "image": "https://y.zdmimg.com/202609/21/6ab123e8bb0cc4017.jpg_a200.jpg",
       "category": "数码",
       "source": "什么值得买·好价",
-      "summary": "LXD美丽时光",
+      "summary": "",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "漫步者 Comfo Clip Q耳夹式 杜比音效 蓝牙耳机 同声传译 236元（需用券）",
-      "link": "https://www.smzdm.com/p/184943735/",
-      "price": 236.0,
-      "image": "https://y.zdmimg.com/202606/12/6a2bb75b94ae72505.png_a200.jpg",
+      "title": "骆驼 便携折叠儿童帐篷 102元（需买2件，需用券）",
+      "link": "https://www.smzdm.com/p/184948381/",
+      "price": 102.0,
+      "image": "https://y.zdmimg.com/202508/16/689f6101854865218.jpg_a200.jpg",
+      "category": "运动户外",
+      "source": "什么值得买·好价",
+      "summary": "美美连连",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "铂钻 EverClean）除臭低尘膨润土宠物用品矿砂猫砂(蓝标无香 )10L 72.85元返40积分后",
+      "link": "https://www.smzdm.com/p/184979184/",
+      "price": 72.85,
+      "image": "https://y.zdmimg.com/202610/29/6ae2c4114da3e5069.png_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "郁仙仙返40值得买积分，补贴后低至145.70元，折72.85元/件",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "酷狗音乐 豪华VIP会员12个月年卡直充到账372天 99.1元返39积分后",
+      "link": "https://www.smzdm.com/p/184987241/",
+      "price": 99.1,
+      "image": "https://y.zdmimg.com/202610/29/6ae2eb9f59a3f5240.jpg_a200.jpg",
+      "category": "其他",
+      "source": "什么值得买·好价",
+      "summary": "文娱百晓生返39值得买积分，补贴后低至99.10元",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "京东京造 每日坚果1080g/36袋红运款坚果礼盒零食干果开心果腰果核桃 85.8元",
+      "link": "https://www.smzdm.com/p/184983450/",
+      "price": 85.8,
+      "image": "https://y.zdmimg.com/202512/25/694c2391940363030.png_a200.jpg",
+      "category": "食品生鲜",
+      "source": "什么值得买·好价",
+      "summary": "",
+      "published": "",
+      "published_ts": 0.0
+    },
+    {
+      "title": "倍思 小智充100W充电器氮化镓屏显type-c多口pd快充头适用苹果18Duo小米手机华 209元",
+      "link": "https://www.smzdm.com/p/184922304/",
+      "price": 209.0,
+      "image": "https://y.zdmimg.com/202610/11/6acb06052f7c84083.png_a200.jpg",
       "category": "数码",
       "source": "什么值得买·好价",
-      "summary": "瓜子不香吗",
+      "summary": "妖气仙子",
       "published": "",
       "published_ts": 0.0
     },
     {
-      "title": "格力高 草莓牛奶味 饼干棒   赠1盒 3.32元",
-      "link": "https://www.smzdm.com/p/184789202/",
-      "price": 3.32,
-      "image": "https://y.zdmimg.com/202511/10/6910fcf608de67982.jpg_a200.jpg",
-      "category": "食品生鲜",
+      "title": "88VIP：骆驼 雨神 男女款单层硬壳冲锋衣 255元（需用券）",
+      "link": "https://www.smzdm.com/p/184966877/",
+      "price": 255.0,
+      "image": "https://y.zdmimg.com/202610/29/6ae29f070fd9f6259.jpg_a200.jpg",
+      "category": "服饰鞋包",
       "source": "什么值得买·好价",
-      "summary": "值友4189665579",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "稻香村 糕点礼盒京八件长辈父母家长食品礼盒北京传统中式糕点心 盒-稻香风华 23.16元",
-      "link": "https://www.smzdm.com/p/184771079/",
-      "price": 23.16,
-      "image": "https://y.zdmimg.com/202603/27/69c610f780eb13033.png_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "菜品菌",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "88VIP：《小熊很忙：城堡小骑士》点读版 中英双语  12.68元包邮（拍下立减）",
-      "link": "https://www.smzdm.com/p/184943110/",
-      "price": 12.68,
-      "image": "https://y.zdmimg.com/202610/28/6ae1f683579809491.jpg_a200.jpg",
-      "category": "其他",
-      "source": "什么值得买·好价",
-      "summary": "小值机器人天猫商城该商品当前活动售价15.75元，下单官方立减2.4元，叠加88vip专享9.5折优惠活动，实付低至12.68元，感兴趣的值友可入手。",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "今日必买：麦臻选 陈皮杨梅 350g 30.9元返65积分后",
-      "link": "https://www.smzdm.com/p/184512988/",
-      "price": 30.9,
-      "image": "https://y.zdmimg.com/202610/22/6ad9d27625cf36353.jpg_a200.jpg",
-      "category": "其他",
-      "source": "什么值得买·好价",
-      "summary": "尔听风叹返65值得买积分，补贴后低至123.58元，补贴后折30.90元/件",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "百亿补贴：安克 5合1多功能拓展坞 HDMI4K高清 PD快充 接口转换器 69元",
-      "link": "https://www.smzdm.com/p/184938182/",
-      "price": 69.0,
-      "image": "https://y.zdmimg.com/202609/30/6abcbb6e09e765063.jpg_a200.jpg",
-      "category": "其他",
-      "source": "什么值得买·好价",
-      "summary": "成都张学友丶",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "森海塞尔 ACCENTUM真无线耳机主动降噪蓝牙音乐入耳式耳机 水墨黑 997.2元",
-      "link": "https://www.smzdm.com/p/184976534/",
-      "price": 997.2,
-      "image": "https://y.zdmimg.com/202511/16/6918c76518bd24331.png_a200.jpg",
-      "category": "数码",
-      "source": "什么值得买·好价",
-      "summary": "风吹小麦浪",
-      "published": "",
-      "published_ts": 0.0
-    },
-    {
-      "title": "移动端、88VIP：格力高 百醇百力滋组合装281g下午茶休闲零食 26.06元（淘金币可抵1.8元起）",
-      "link": "https://www.smzdm.com/p/184776349/",
-      "price": 26.06,
-      "image": "https://y.zdmimg.com/202610/26/6adf1d2b471794752.jpg_a200.jpg",
-      "category": "食品生鲜",
-      "source": "什么值得买·好价",
-      "summary": "小值机器人天猫超市该商品正在促销，领取淘礼金1.96元，领取满3减3元，88VIP 95折优惠券，最终到手价26.06元/件，喜欢可入。每日淘礼金数量有限，领完即止。使用淘金币再省1.8元起，根据账号情况可能抵更多，建议亲测。",
+      "summary": "sjdjdjd",
       "published": "",
       "published_ts": 0.0
     }

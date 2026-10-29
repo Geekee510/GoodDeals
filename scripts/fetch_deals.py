@@ -27,11 +27,13 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG_PATH = os.path.join(ROOT, "config.json")
 OUTPUT_PATH = os.path.join(ROOT, "data", "deals.json")
 
-# 价格：匹配 ¥ / ￥ 以及国内常见的「到手价199 / 68.7元 / ￥1,299.00」写法
+# 价格：匹配 ¥ / ￥ 以及国内常见的「到手价199 / 68.7元 / ￥1,299.00」写法。
+# 数字部分支持 1~6 位（4099元）或千分位（1,299元）——
+# 勿用 \d{1,3}：对「4099元」会从第二位匹配出「099」→ 99 的严重错价！
 PRICE_SYMBOL_RE = re.compile(
-    r"[¥￥]\s?(\d{1,3}(?:,\d{3})*(?:\.\d{1,2})?)"
+    r"[¥￥]\s?((?:\d{1,3}(?:,\d{3})+|\d{1,6})(?:\.\d{1,2})?)"
 )
-PRICE_YUAN_RE = re.compile(r"(\d{1,3}(?:,\d{3})*(?:\.\d{1,2})?)\s*元")
+PRICE_YUAN_RE = re.compile(r"((?:\d{1,3}(?:,\d{3})+|\d{1,6})(?:\.\d{1,2})?)\s*元")
 IMG_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
 TAG_RE = re.compile(r"<[^>]+>")
 
