@@ -39,7 +39,7 @@
       ? '<span class="price">¥' + d.price + "</span>"
       : "";
     var img = d.image
-      ? '<img class="thumb" src="' + esc(d.image) + '" loading="lazy" alt="" />'
+      ? '<img class="thumb" src="' + esc(d.image) + '" loading="lazy" referrerpolicy="no-referrer" alt="" />'
       : '<div class="thumb thumb-ph">🏷️</div>';
     var cat = d.category || "优惠";
     return (

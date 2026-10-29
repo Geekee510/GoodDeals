@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <!-- 关键：不发送 referer，绕过图片 CDN（y.zdmimg.com/qny.smzdm.com）的防盗链拦截，否则 GitHub Pages 上图片显示 567 拒绝 -->
+  <meta name="referrer" content="no-referrer" />
   <title>好价精选</title>
   <meta name="description" content="国内优惠信息聚合 · 给朋友的小圈子。数据来源：什么值得买等公开 RSS。" />
   <link rel="stylesheet" href="./assets/css/style.css" />
