@@ -5,9 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <!-- 关键：不发送 referer，绕过图片 CDN（y.zdmimg.com/qny.smzdm.com）的防盗链拦截，否则 GitHub Pages 上图片显示 567 拒绝 -->
   <meta name="referrer" content="no-referrer" />
+  <!-- 微信内置浏览器(X5/XWeb)缓存极顽固，显式声明禁缓存（部分内核仍无视，配合下方时间戳参数双保险） -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
   <title>好价精选</title>
   <meta name="description" content="国内优惠信息聚合 · 给朋友的小圈子。数据来源：什么值得买等公开 RSS。" />
-  <link rel="stylesheet" href="./assets/css/style.css" />
+  <script>
+    /* 微信 webview 不刷新的解法：CSS/JS 链接带时间戳参数，强制每次页面加载都拉最新版本 */
+    document.write('<link rel="stylesheet" href="./assets/css/style.css?v=' + Date.now() + '" />');
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -36,6 +43,8 @@
     <p>价格与优惠以来源页面实时为准，点击卡片跳转原文查看详情。</p>
   </footer>
 
-  <script src="./assets/js/app.js"></script>
+  <script>
+    document.write('<script src="./assets/js/app.js?v=' + Date.now() + '"><\/script>');
+  </script>
 </body>
 </html>

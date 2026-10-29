@@ -6,6 +6,10 @@
   "use strict";
 
   var DATA_URL = "./data/deals.json";
+  // 微信内置浏览器缓存顽固：fetch 加时间戳参数，确保数据永远是最新生成的
+  function dataUrl() {
+    return DATA_URL + "?t=" + Date.now();
+  }
   var state = { deals: [], cat: "全部", q: "" };
 
   // ---- 工具 ----
@@ -180,7 +184,7 @@
       }
     });
 
-    fetch(DATA_URL, { cache: "no-cache" })
+    fetch(dataUrl(), { cache: "no-cache" })
       .then(function (r) {
         if (!r.ok) throw new Error("HTTP " + r.status);
         return r.json();
