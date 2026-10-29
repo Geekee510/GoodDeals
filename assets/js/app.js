@@ -85,17 +85,29 @@
     empty.hidden = list.length !== 0;
   }
 
+  // 分类栏固定展示顺序：真实品类在前（数码/家电等主力品类优先），电商榜其后，
+  // 未知分类按名称排，「其他」永远最后。避免顺序随每次抓取的数据出现顺序波动。
+  var CAT_ORDER = [
+    "数码", "家用电器", "食品生鲜", "美妆个护", "服饰鞋包",
+    "运动户外", "日用百货", "酒水", "京东", "天猫"
+  ];
+  function catSortKey(name) {
+    var i = CAT_ORDER.indexOf(name);
+    if (i !== -1) return i;                      // 固定优先级
+    if (name === "其他") return 999;             // 其他置最后
+    return 100 + name.charCodeAt(0) % 100;       // 未知分类排在固定列表之后
+  }
+
   function buildCats() {
     var cats = {};
     state.deals.forEach(function (d) {
       var c = d.category || "优惠";
       cats[c] = (cats[c] || 0) + 1;
     });
-    var names = ["全部"].concat(Object.keys(cats));
-    // 把「其他」分类移到筛选栏最后（它不是真实品类，放末尾更整洁）
-    var other = names.filter(function (n) { return n === "其他"; });
-    var rest = names.filter(function (n) { return n !== "其他"; });
-    names = rest.concat(other);
+    var names = Object.keys(cats).sort(function (a, b) {
+      return catSortKey(a) - catSortKey(b) || a.localeCompare(b, "zh");
+    });
+    names = ["全部"].concat(names);
     var box = document.getElementById("catFilter");
     box.innerHTML = names
       .map(function (n) {
