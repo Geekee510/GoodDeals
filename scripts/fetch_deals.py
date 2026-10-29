@@ -38,6 +38,11 @@ TAG_RE = re.compile(r"<[^>]+>")
 # 关键词自动分类（针对 SMZDM 综合好价源，该源不提供逐条分类）。
 # 顺序即优先级：靠前命中即归类。未命中归为「其他」。
 CATEGORY_KEYWORDS = {
+    # 酒水置顶（最高优先级）：酒类一旦命中即归入此类，避免被后面的美妆/食品词误截。
+    # 注意不用单字「酒」，否则「酒家」「酒店」类标题会误入
+    "酒水": ["白酒", "红酒", "啤酒", "葡萄酒", "茅台", "五粮液", "洋河", "泸州",
+             "郎酒", "汾酒", "黄酒", "洋酒", "香槟", "鸡尾酒", "威士忌", "白兰地",
+             "伏特加", "果酒", "米酒", "清酒", "名酒", "泡酒", "药酒", "贡酒"],
     "数码": ["手机", "电脑", "笔记本", "平板", "键盘", "鼠标", "耳机", "显卡", "显示器",
              "充电", "数据线", "路由器", "相机", "主板", "cpu", "内存", "硬盘", "固态",
              "充电宝", "蓝牙", "音箱", "智能手表", "ipad", "iphone", "安卓", "摄像头",
@@ -49,7 +54,8 @@ CATEGORY_KEYWORDS = {
              "香水", "洗发", "沐浴", "牙膏", "纸巾", "卫生巾", "卸妆", "粉底", "眼影",
              "彩妆", "身体乳", "护手", "剃须"],
     "服饰鞋包": ["服饰", "衣服", "男装", "女装", "外套", "裤", "裙", "内衣", "t恤",
-             "运动鞋", "靴", "帽子", "围巾", "包", "鞋", "羽绒", "卫衣", "衬衫"],
+             "运动鞋", "靴", "帽子", "围巾", "背包", "挎包", "钱包", "手提包",
+             "双肩包", "书包", "箱包", "卡包", "鞋", "羽绒", "卫衣", "衬衫"],
     "运动户外": ["运动", "户外", "健身", "瑜伽", "跑步", "球", "帐篷", "睡袋", "登山",
              "自行车", "哑铃", "跑步机", "泳衣", "骑行"],
     "日用百货": ["日用", "百货", "收纳", "清洁", "洗衣液", "垃圾袋", "保鲜", "雨伞",
@@ -240,6 +246,83 @@ def parse_ranking_item(item: dict, source: dict):
     }
 
 
+def fetch_xianbao(source: dict, timeout: int, ua: str):
+    """线报酷开放 API（无需密钥、无需登录）。
+
+    文档：https://new.xianbao.fun/docs/api.html
+    端点 GET /api/v1/feed?cate=<频道>&limit=<n>&with_html=1
+    返回 data.items，字段：title/url/price/content/category/published_at。
+    - 列表本身无封面图，但 with_html=1 后 content 为 HTML，可从中抠首图
+      （线报酷已对图片做防盗链处理，可直接嵌入）。
+    - published_at 为 Unix 秒时间戳。
+    - 限流 60 次/IP/分钟（每次运行仅几个请求，安全）。
+    """
+    headers = {
+        "User-Agent": ua,
+        "Accept": "application/json",
+    }
+    params = {
+        "cate": source.get("cate", "weibo"),
+        "limit": source.get("limit", 30),
+        "with_html": 1,
+    }
+    url = "https://new.xianbao.fun/api/v1/feed"
+    try:
+        resp = requests.get(url, headers=headers, params=params, timeout=timeout)
+        resp.raise_for_status()
+        j = resp.json()
+        if j.get("code") not in (0, None):
+            log(f"  ⚠ 接口返回异常 {source['name']}: {j.get('msg')}")
+            return []
+        return (j.get("data") or {}).get("items", [])
+    except Exception as e:
+        log(f"  ✗ 抓取失败 {source['name']} ({url}): {e}")
+        return []
+
+
+def parse_xianbao_item(item: dict, source: dict):
+    link = (item.get("url") or "").strip()
+    if not link:
+        return None
+    title = (item.get("title") or "").strip()
+    content = item.get("content") or ""
+
+    price = item.get("price")
+    if price is not None:
+        try:
+            price = float(price)
+        except (ValueError, TypeError):
+            price = None
+
+    # 封面图：从 content 的 HTML 中抠首图（线报酷已做防盗链处理）；无线报则占位
+    image = extract_image(content) or None
+
+    # 时间：published_at 为 Unix 秒
+    pa = item.get("published_at")
+    if isinstance(pa, (int, float)):
+        dt = datetime.fromtimestamp(pa, tz=timezone.utc)
+        published_iso = dt.isoformat()
+        published_ts = dt.timestamp()
+    else:
+        now = datetime.now(timezone.utc)
+        published_iso = now.isoformat()
+        published_ts = now.timestamp()
+
+    # 用统一关键词分类，与 SMZDM 主源视角一致
+    category = classify((title + " " + content).lower())
+    return {
+        "title": title,
+        "link": link,
+        "price": price,
+        "image": image,
+        "category": category,
+        "source": source["name"],
+        "summary": strip_html(content)[:200],
+        "published": published_iso,
+        "published_ts": published_ts,
+    }
+
+
 def main() -> None:
     config = load_config()
     site = config.get("site", {})
@@ -256,6 +339,10 @@ def main() -> None:
             log(f"→ {source['name']} (SMZDM榜单 {source.get('rank_type')}/{source.get('rank_id')})")
             raw = fetch_ranking(source, timeout, ua)
             items_raw = [parse_ranking_item(it, source) for it in raw]
+        elif source.get("type") == "xianbao_feed":
+            log(f"→ {source['name']} (线报酷 feed/{source.get('cate')})")
+            raw = fetch_xianbao(source, timeout, ua)
+            items_raw = [parse_xianbao_item(it, source) for it in raw]
         else:
             log(f"→ {source['name']} ({source['url']})")
             entries = fetch_feed(source, timeout, ua)

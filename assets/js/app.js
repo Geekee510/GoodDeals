@@ -56,6 +56,13 @@
     );
   }
 
+  function restoreScroll() {
+    try {
+      var sp = parseInt(sessionStorage.getItem("gd_scroll") || "0", 10);
+      if (sp > 0) { window.scrollTo(0, sp); sessionStorage.removeItem("gd_scroll"); }
+    } catch (e) {}
+  }
+
   function render() {
     var q = state.q.trim().toLowerCase();
     var list = state.deals.filter(function (d) {
@@ -78,6 +85,10 @@
       cats[c] = (cats[c] || 0) + 1;
     });
     var names = ["全部"].concat(Object.keys(cats));
+    // 把「其他」分类移到筛选栏最后（它不是真实品类，放末尾更整洁）
+    var other = names.filter(function (n) { return n === "其他"; });
+    var rest = names.filter(function (n) { return n !== "其他"; });
+    names = rest.concat(other);
     var box = document.getElementById("catFilter");
     box.innerHTML = names
       .map(function (n) {
@@ -141,6 +152,15 @@
       render();
     });
 
+    // 点击卡片跳转外链前，记录当前滚动位置；返回时由 restoreScroll() 恢复
+    // （微信内置浏览器右滑返回后页面重载，浏览器原生 scrollRestoration 不可靠）
+    document.getElementById("list").addEventListener("click", function (e) {
+      var a = e.target && e.target.closest ? e.target.closest("a.card") : null;
+      if (a) {
+        try { sessionStorage.setItem("gd_scroll", String(window.scrollY)); } catch (err) {}
+      }
+    });
+
     fetch(DATA_URL, { cache: "no-cache" })
       .then(function (r) {
         if (!r.ok) throw new Error("HTTP " + r.status);
@@ -151,6 +171,7 @@
         setMeta(payload);
         buildCats();
         render();
+        restoreScroll();
       })
       .catch(function () {
         document.getElementById("loaderr").hidden = false;

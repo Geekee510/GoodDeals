@@ -94,6 +94,22 @@
       "hour": "24",
       "category": "天猫",
       "enabled": true
+    },
+    {
+      "id": "xianbao_weibo",
+      "name": "线报酷",
+      "type": "xianbao_feed",
+      "cate": "weibo",
+      "limit": 30,
+      "enabled": true
+    },
+    {
+      "id": "xianbao_haodan",
+      "name": "线报酷",
+      "type": "xianbao_feed",
+      "cate": "haodan",
+      "limit": 30,
+      "enabled": true
     }
   ]
 }
