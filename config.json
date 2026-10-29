@@ -12,6 +12,7 @@
       "name": "什么值得买·好价",
       "url": "http://feed.smzdm.com",
       "category": "好价",
+      "auto_category": true,
       "enabled": true
     },
     {
@@ -33,6 +34,41 @@
       "name": "RSSHub·电脑数码榜24h",
       "url": "https://rsshub.app/smzdm/ranking/pinlei/13/24",
       "category": "数码",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_food",
+      "name": "RSSHub·食品生鲜榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/pinlei/12/24",
+      "category": "食品生鲜",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_home",
+      "name": "RSSHub·家用电器榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/pinlei/15/24",
+      "category": "家用电器",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_apparel",
+      "name": "RSSHub·服饰鞋包榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/pinlei/75/24",
+      "category": "服饰鞋包",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_daily",
+      "name": "RSSHub·日用百货榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/pinlei/74/24",
+      "category": "日用百货",
+      "enabled": true
+    },
+    {
+      "id": "rsshub_sports",
+      "name": "RSSHub·运动户外榜24h",
+      "url": "https://rsshub.app/smzdm/ranking/pinlei/14/24",
+      "category": "运动户外",
       "enabled": true
     }
   ]
