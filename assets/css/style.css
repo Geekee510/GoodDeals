@@ -200,7 +200,29 @@ body {
   padding: 2px 8px;
   border-radius: 6px;
 }
-.src { color: var(--muted); }
+/* 来源标签：按来源 hash 分配 10 色调色板（--sh 为色相），一眼区分不同数据来源。
+   浅色主题：彩字+浅底；深色主题：亮字+深底，保证两种主题都可读。 */
+.src {
+  color: var(--muted);
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: hsl(var(--sh, 0), 70%, 92%);
+  color: hsl(var(--sh, 0), 65%, 32%);
+}
+[data-theme="dark"] .src {
+  background: hsl(var(--sh, 0), 45%, 20%);
+  color: hsl(var(--sh, 0), 75%, 72%);
+}
+.src-c0 { --sh: 25; }   /* 橙 */
+.src-c1 { --sh: 210; }  /* 蓝 */
+.src-c2 { --sh: 145; }  /* 绿 */
+.src-c3 { --sh: 270; }  /* 紫 */
+.src-c4 { --sh: 185; }  /* 青 */
+.src-c5 { --sh: 330; }  /* 玫红 */
+.src-c6 { --sh: 60; }   /* 橄榄 */
+.src-c7 { --sh: 245; }  /* 蓝紫 */
+.src-c8 { --sh: 100; }  /* 黄绿 */
+.src-c9 { --sh: 15; }   /* 砖红 */
 .time { margin-left: auto; }
 
 .empty {

@@ -34,6 +34,13 @@
   }
 
   // ---- 渲染 ----
+  // 来源标签配色：同一来源颜色稳定（字符串 hash → 10 色调色板，见 style.css .src-c*）
+  function srcColorClass(name) {
+    var s = String(name || ""), h = 0;
+    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+    return "src-c" + (h % 10);
+  }
+
   function cardHTML(d) {
     var price = d.price != null
       ? '<span class="price">¥' + d.price + "</span>"
@@ -50,7 +57,7 @@
       '<div class="card-meta">' +
       price +
       '<span class="tag">' + esc(cat) + "</span>" +
-      '<span class="src">' + esc(d.source) + "</span>" +
+      '<span class="src ' + srcColorClass(d.source) + '">' + esc(d.source) + "</span>" +
       '<span class="time">' + timeAgo(d.published) + "</span>" +
       "</div></div></a>"
     );

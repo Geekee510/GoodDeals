@@ -47,22 +47,22 @@
     },
     {
       "id": "smzdm_pinlei_75",
-      "name": "什么值得买·服饰鞋包榜",
+      "name": "什么值得买·日用百货榜",
       "type": "smzdm_ranking",
       "rank_type": "pinlei",
       "rank_id": "75",
       "hour": "24",
-      "category": "服饰鞋包",
+      "category": "日用百货",
       "enabled": true
     },
     {
       "id": "smzdm_pinlei_74",
-      "name": "什么值得买·日用百货榜",
+      "name": "什么值得买·服饰鞋包榜",
       "type": "smzdm_ranking",
       "rank_type": "pinlei",
       "rank_id": "74",
       "hour": "24",
-      "category": "日用百货",
+      "category": "服饰鞋包",
       "enabled": true
     },
     {
